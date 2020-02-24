@@ -10,6 +10,9 @@ const puppeteer = require("puppeteer");
       "http://dpsstnet.state.or.us/IRIS_PublicInquiry/PrivateSecurity/SMSAgcyTable.aspx"
     );
 
+    //Clicks a tag by id
+    await page.$eval("#btnNALL", el => el.click());
+
     await page.screenshot({
       path: "./screenshots/page1.png"
     });
