@@ -1,6 +1,20 @@
 const puppeteer = require("puppeteer");
 
-(async () => {
+let pageCount = 1; // 21 full pages of content
+
+const companies = await page.evaluate(() => {
+  const grabFromRow = row => row.innerText.trim();
+
+  const ROW_SELECTOR = "tr";
+  const data = [];
+
+  const companyRows = document.querySelectorAll(ROW_SELECTOR);
+
+  for (const tr of companyRows) {
+    data.push(tr);
+  }
+  console.log(data);
+})(async () => {
   try {
     const browser = await puppeteer.launch();
 
@@ -12,7 +26,7 @@ const puppeteer = require("puppeteer");
 
     //Clicks a tag by id
     await page.$eval("#btnNALL", el => el.click());
-
+    companies();
     await page.screenshot({
       path: "./screenshots/page1.png"
     });
