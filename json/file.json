@@ -1,1 +1,5465 @@
-undefined
+[
+  {
+    "name": "Name",
+    "primaryContact": "Primary Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "county": "County",
+    "status": "Status",
+    "default": "Status"
+  },
+  {
+    "name": "Name",
+    "primaryContact": "Primary Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "county": "County",
+    "status": "Status",
+    "default": "Status"
+  },
+  {
+    "name": "Name",
+    "primaryContact": "Primary Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "county": "County",
+    "status": "Status",
+    "default": "Status"
+  },
+  {
+    "name": "Name",
+    "primaryContact": "Primary Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "county": "County",
+    "status": "Status",
+    "default": "Status"
+  },
+  {
+    "name": "Name",
+    "primaryContact": "Primary Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "county": "County",
+    "status": "Status",
+    "default": "Status"
+  },
+  {
+    "name": "Name",
+    "primaryContact": "Primary Contact",
+    "address": "Address",
+    "phone": "Phone",
+    "county": "County",
+    "status": "Status",
+    "default": "Status"
+  },
+  {
+    "name": "**",
+    "primaryContact": "",
+    "address": "NOT ASSOCIATED WITH EMPLOYER",
+    "phone": "",
+    "county": "",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "**",
+    "primaryContact": "",
+    "address": "NOT ASSOCIATED WITH EMPLOYER",
+    "phone": "",
+    "county": "",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "**",
+    "primaryContact": "",
+    "address": "NOT ASSOCIATED WITH EMPLOYER",
+    "phone": "",
+    "county": "",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "**",
+    "primaryContact": "",
+    "address": "NOT ASSOCIATED WITH EMPLOYER",
+    "phone": "",
+    "county": "",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "**",
+    "primaryContact": "",
+    "address": "NOT ASSOCIATED WITH EMPLOYER",
+    "phone": "",
+    "county": "",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "**",
+    "primaryContact": "",
+    "address": "NOT ASSOCIATED WITH EMPLOYER",
+    "phone": "",
+    "county": "",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "********",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "********",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "********",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "********",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "********",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "********",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "@ A Moments Notice",
+    "primaryContact": "Kevin Fahety, 33508",
+    "address": "134 NE 125th Ave\nPortland, OR 97230",
+    "phone": "503-481-5847",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "@ A Moments Notice",
+    "primaryContact": "Kevin Fahety, 33508",
+    "address": "134 NE 125th Ave\nPortland, OR 97230",
+    "phone": "503-481-5847",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "@ A Moments Notice",
+    "primaryContact": "Kevin Fahety, 33508",
+    "address": "134 NE 125th Ave\nPortland, OR 97230",
+    "phone": "503-481-5847",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "@ A Moments Notice",
+    "primaryContact": "Kevin Fahety, 33508",
+    "address": "134 NE 125th Ave\nPortland, OR 97230",
+    "phone": "503-481-5847",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "@ A Moments Notice",
+    "primaryContact": "Kevin Fahety, 33508",
+    "address": "134 NE 125th Ave\nPortland, OR 97230",
+    "phone": "503-481-5847",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "@ A Moments Notice",
+    "primaryContact": "Kevin Fahety, 33508",
+    "address": "134 NE 125th Ave\nPortland, OR 97230",
+    "phone": "503-481-5847",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "1 Time Inc Alarms and Security",
+    "primaryContact": "Michael J. Joseph, 49703",
+    "address": "6260 Stevenson Way # A\nHenderson, NV 89011",
+    "phone": "702-565-8000",
+    "county": "Nevada",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "1 Time Inc Alarms and Security",
+    "primaryContact": "Michael J. Joseph, 49703",
+    "address": "6260 Stevenson Way # A\nHenderson, NV 89011",
+    "phone": "702-565-8000",
+    "county": "Nevada",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "1 Time Inc Alarms and Security",
+    "primaryContact": "Michael J. Joseph, 49703",
+    "address": "6260 Stevenson Way # A\nHenderson, NV 89011",
+    "phone": "702-565-8000",
+    "county": "Nevada",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "1 Time Inc Alarms and Security",
+    "primaryContact": "Michael J. Joseph, 49703",
+    "address": "6260 Stevenson Way # A\nHenderson, NV 89011",
+    "phone": "702-565-8000",
+    "county": "Nevada",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "1 Time Inc Alarms and Security",
+    "primaryContact": "Michael J. Joseph, 49703",
+    "address": "6260 Stevenson Way # A\nHenderson, NV 89011",
+    "phone": "702-565-8000",
+    "county": "Nevada",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "1 Time Inc Alarms and Security",
+    "primaryContact": "Michael J. Joseph, 49703",
+    "address": "6260 Stevenson Way # A\nHenderson, NV 89011",
+    "phone": "702-565-8000",
+    "county": "Nevada",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "101 Bar & Grill",
+    "primaryContact": "Esteban S. Hernandez, 87968\nsteve@eyecandypros.com",
+    "address": "PO Box 363\nBrookings, OR 97415",
+    "phone": "541-469-6037",
+    "county": "Curry",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "101 Bar & Grill",
+    "primaryContact": "Esteban S. Hernandez, 87968\nsteve@eyecandypros.com",
+    "address": "PO Box 363\nBrookings, OR 97415",
+    "phone": "541-469-6037",
+    "county": "Curry",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "101 Bar & Grill",
+    "primaryContact": "Esteban S. Hernandez, 87968\nsteve@eyecandypros.com",
+    "address": "PO Box 363\nBrookings, OR 97415",
+    "phone": "541-469-6037",
+    "county": "Curry",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "101 Bar & Grill",
+    "primaryContact": "Esteban S. Hernandez, 87968\nsteve@eyecandypros.com",
+    "address": "PO Box 363\nBrookings, OR 97415",
+    "phone": "541-469-6037",
+    "county": "Curry",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "101 Bar & Grill",
+    "primaryContact": "Esteban S. Hernandez, 87968\nsteve@eyecandypros.com",
+    "address": "PO Box 363\nBrookings, OR 97415",
+    "phone": "541-469-6037",
+    "county": "Curry",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "101 Bar & Grill",
+    "primaryContact": "Esteban S. Hernandez, 87968\nsteve@eyecandypros.com",
+    "address": "PO Box 363\nBrookings, OR 97415",
+    "phone": "541-469-6037",
+    "county": "Curry",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "108 Bar & Grill",
+    "primaryContact": "Jiam Pharn, 53978\njppharn83@yahoo.com",
+    "address": "10845 NE Halsey St\nPortland, OR 97220",
+    "phone": "503-255-8833",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "108 Bar & Grill",
+    "primaryContact": "Jiam Pharn, 53978\njppharn83@yahoo.com",
+    "address": "10845 NE Halsey St\nPortland, OR 97220",
+    "phone": "503-255-8833",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "108 Bar & Grill",
+    "primaryContact": "Jiam Pharn, 53978\njppharn83@yahoo.com",
+    "address": "10845 NE Halsey St\nPortland, OR 97220",
+    "phone": "503-255-8833",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "108 Bar & Grill",
+    "primaryContact": "Jiam Pharn, 53978\njppharn83@yahoo.com",
+    "address": "10845 NE Halsey St\nPortland, OR 97220",
+    "phone": "503-255-8833",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "108 Bar & Grill",
+    "primaryContact": "Jiam Pharn, 53978\njppharn83@yahoo.com",
+    "address": "10845 NE Halsey St\nPortland, OR 97220",
+    "phone": "503-255-8833",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "108 Bar & Grill",
+    "primaryContact": "Jiam Pharn, 53978\njppharn83@yahoo.com",
+    "address": "10845 NE Halsey St\nPortland, OR 97220",
+    "phone": "503-255-8833",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "10LB Distribution, LLC",
+    "primaryContact": "Zachary S. Clark, 81213\nzack@zackllc.com",
+    "address": "3308 N Highway 97\nBend, OR 97701",
+    "phone": "541-946-5111",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "10LB Distribution, LLC",
+    "primaryContact": "Zachary S. Clark, 81213\nzack@zackllc.com",
+    "address": "3308 N Highway 97\nBend, OR 97701",
+    "phone": "541-946-5111",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "10LB Distribution, LLC",
+    "primaryContact": "Zachary S. Clark, 81213\nzack@zackllc.com",
+    "address": "3308 N Highway 97\nBend, OR 97701",
+    "phone": "541-946-5111",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "10LB Distribution, LLC",
+    "primaryContact": "Zachary S. Clark, 81213\nzack@zackllc.com",
+    "address": "3308 N Highway 97\nBend, OR 97701",
+    "phone": "541-946-5111",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "10LB Distribution, LLC",
+    "primaryContact": "Zachary S. Clark, 81213\nzack@zackllc.com",
+    "address": "3308 N Highway 97\nBend, OR 97701",
+    "phone": "541-946-5111",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "10LB Distribution, LLC",
+    "primaryContact": "Zachary S. Clark, 81213\nzack@zackllc.com",
+    "address": "3308 N Highway 97\nBend, OR 97701",
+    "phone": "541-946-5111",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "24/7 Security, LLC",
+    "primaryContact": "",
+    "address": "701 N 1st St, Ste 103\nYakima, WA 98901",
+    "phone": "",
+    "county": "Washington State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "24/7 Security, LLC",
+    "primaryContact": "",
+    "address": "701 N 1st St, Ste 103\nYakima, WA 98901",
+    "phone": "",
+    "county": "Washington State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "24/7 Security, LLC",
+    "primaryContact": "",
+    "address": "701 N 1st St, Ste 103\nYakima, WA 98901",
+    "phone": "",
+    "county": "Washington State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "24/7 Security, LLC",
+    "primaryContact": "",
+    "address": "701 N 1st St, Ste 103\nYakima, WA 98901",
+    "phone": "",
+    "county": "Washington State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "24/7 Security, LLC",
+    "primaryContact": "",
+    "address": "701 N 1st St, Ste 103\nYakima, WA 98901",
+    "phone": "",
+    "county": "Washington State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "24/7 Security, LLC",
+    "primaryContact": "",
+    "address": "701 N 1st St, Ste 103\nYakima, WA 98901",
+    "phone": "",
+    "county": "Washington State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "295 Tactical",
+    "primaryContact": "Donnie Meyers, 53798\ntwoninefivetactical@aol.com",
+    "address": "PO Box 2104\nEugene, OR 97402",
+    "phone": "541-914-8993",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "295 Tactical",
+    "primaryContact": "Donnie Meyers, 53798\ntwoninefivetactical@aol.com",
+    "address": "PO Box 2104\nEugene, OR 97402",
+    "phone": "541-914-8993",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "295 Tactical",
+    "primaryContact": "Donnie Meyers, 53798\ntwoninefivetactical@aol.com",
+    "address": "PO Box 2104\nEugene, OR 97402",
+    "phone": "541-914-8993",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "295 Tactical",
+    "primaryContact": "Donnie Meyers, 53798\ntwoninefivetactical@aol.com",
+    "address": "PO Box 2104\nEugene, OR 97402",
+    "phone": "541-914-8993",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "295 Tactical",
+    "primaryContact": "Donnie Meyers, 53798\ntwoninefivetactical@aol.com",
+    "address": "PO Box 2104\nEugene, OR 97402",
+    "phone": "541-914-8993",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "295 Tactical",
+    "primaryContact": "Donnie Meyers, 53798\ntwoninefivetactical@aol.com",
+    "address": "PO Box 2104\nEugene, OR 97402",
+    "phone": "541-914-8993",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "2nd Street Bar",
+    "primaryContact": "",
+    "address": "40 NE 2nd St.\nGresham, OR 97030",
+    "phone": "503-512-8915",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "2nd Street Bar",
+    "primaryContact": "",
+    "address": "40 NE 2nd St.\nGresham, OR 97030",
+    "phone": "503-512-8915",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "2nd Street Bar",
+    "primaryContact": "",
+    "address": "40 NE 2nd St.\nGresham, OR 97030",
+    "phone": "503-512-8915",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "2nd Street Bar",
+    "primaryContact": "",
+    "address": "40 NE 2nd St.\nGresham, OR 97030",
+    "phone": "503-512-8915",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "2nd Street Bar",
+    "primaryContact": "",
+    "address": "40 NE 2nd St.\nGresham, OR 97030",
+    "phone": "503-512-8915",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "2nd Street Bar",
+    "primaryContact": "",
+    "address": "40 NE 2nd St.\nGresham, OR 97030",
+    "phone": "503-512-8915",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3 Tier Services LLC",
+    "primaryContact": "Stephen M. Yerger, 33896\nstevey@3tierservices.com",
+    "address": "5434 River Road N. Suite 150\nKeizer, OR 97303",
+    "phone": "503-990-8255",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3 Tier Services LLC",
+    "primaryContact": "Stephen M. Yerger, 33896\nstevey@3tierservices.com",
+    "address": "5434 River Road N. Suite 150\nKeizer, OR 97303",
+    "phone": "503-990-8255",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3 Tier Services LLC",
+    "primaryContact": "Stephen M. Yerger, 33896\nstevey@3tierservices.com",
+    "address": "5434 River Road N. Suite 150\nKeizer, OR 97303",
+    "phone": "503-990-8255",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3 Tier Services LLC",
+    "primaryContact": "Stephen M. Yerger, 33896\nstevey@3tierservices.com",
+    "address": "5434 River Road N. Suite 150\nKeizer, OR 97303",
+    "phone": "503-990-8255",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3 Tier Services LLC",
+    "primaryContact": "Stephen M. Yerger, 33896\nstevey@3tierservices.com",
+    "address": "5434 River Road N. Suite 150\nKeizer, OR 97303",
+    "phone": "503-990-8255",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3 Tier Services LLC",
+    "primaryContact": "Stephen M. Yerger, 33896\nstevey@3tierservices.com",
+    "address": "5434 River Road N. Suite 150\nKeizer, OR 97303",
+    "phone": "503-990-8255",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "300 Premium Security Services",
+    "primaryContact": "Jarvez Hall",
+    "address": "1927 NE Dekum St\nPortland, OR 97211",
+    "phone": "503-358-2914",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "300 Premium Security Services",
+    "primaryContact": "Jarvez Hall",
+    "address": "1927 NE Dekum St\nPortland, OR 97211",
+    "phone": "503-358-2914",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "300 Premium Security Services",
+    "primaryContact": "Jarvez Hall",
+    "address": "1927 NE Dekum St\nPortland, OR 97211",
+    "phone": "503-358-2914",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "300 Premium Security Services",
+    "primaryContact": "Jarvez Hall",
+    "address": "1927 NE Dekum St\nPortland, OR 97211",
+    "phone": "503-358-2914",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "300 Premium Security Services",
+    "primaryContact": "Jarvez Hall",
+    "address": "1927 NE Dekum St\nPortland, OR 97211",
+    "phone": "503-358-2914",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "300 Premium Security Services",
+    "primaryContact": "Jarvez Hall",
+    "address": "1927 NE Dekum St\nPortland, OR 97211",
+    "phone": "503-358-2914",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "3W Security",
+    "primaryContact": "Christopher Wright, 11700",
+    "address": "11140 SW Barbur Blvd Suite 105\nPortland, OR 97219",
+    "phone": "503-977-2162",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3W Security",
+    "primaryContact": "Christopher Wright, 11700",
+    "address": "11140 SW Barbur Blvd Suite 105\nPortland, OR 97219",
+    "phone": "503-977-2162",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3W Security",
+    "primaryContact": "Christopher Wright, 11700",
+    "address": "11140 SW Barbur Blvd Suite 105\nPortland, OR 97219",
+    "phone": "503-977-2162",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3W Security",
+    "primaryContact": "Christopher Wright, 11700",
+    "address": "11140 SW Barbur Blvd Suite 105\nPortland, OR 97219",
+    "phone": "503-977-2162",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3W Security",
+    "primaryContact": "Christopher Wright, 11700",
+    "address": "11140 SW Barbur Blvd Suite 105\nPortland, OR 97219",
+    "phone": "503-977-2162",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "3W Security",
+    "primaryContact": "Christopher Wright, 11700",
+    "address": "11140 SW Barbur Blvd Suite 105\nPortland, OR 97219",
+    "phone": "503-977-2162",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "4 Daughters Irish Pub",
+    "primaryContact": "contracting W/CYA Event Security, 46656\nbill@sentinelsg.com",
+    "address": "126 W Main Street\nMedford, OR 97501",
+    "phone": "541-779-4455",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "4 Daughters Irish Pub",
+    "primaryContact": "contracting W/CYA Event Security, 46656\nbill@sentinelsg.com",
+    "address": "126 W Main Street\nMedford, OR 97501",
+    "phone": "541-779-4455",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "4 Daughters Irish Pub",
+    "primaryContact": "contracting W/CYA Event Security, 46656\nbill@sentinelsg.com",
+    "address": "126 W Main Street\nMedford, OR 97501",
+    "phone": "541-779-4455",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "4 Daughters Irish Pub",
+    "primaryContact": "contracting W/CYA Event Security, 46656\nbill@sentinelsg.com",
+    "address": "126 W Main Street\nMedford, OR 97501",
+    "phone": "541-779-4455",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "4 Daughters Irish Pub",
+    "primaryContact": "contracting W/CYA Event Security, 46656\nbill@sentinelsg.com",
+    "address": "126 W Main Street\nMedford, OR 97501",
+    "phone": "541-779-4455",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "4 Daughters Irish Pub",
+    "primaryContact": "contracting W/CYA Event Security, 46656\nbill@sentinelsg.com",
+    "address": "126 W Main Street\nMedford, OR 97501",
+    "phone": "541-779-4455",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "45 East (E45T LLC)",
+    "primaryContact": "Mario A. Lara, 61062\nmario@45eastpdx.com",
+    "address": "315 SE 3rd\nPortland, OR 97214",
+    "phone": "503-309-1077",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "45 East (E45T LLC)",
+    "primaryContact": "Mario A. Lara, 61062\nmario@45eastpdx.com",
+    "address": "315 SE 3rd\nPortland, OR 97214",
+    "phone": "503-309-1077",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "45 East (E45T LLC)",
+    "primaryContact": "Mario A. Lara, 61062\nmario@45eastpdx.com",
+    "address": "315 SE 3rd\nPortland, OR 97214",
+    "phone": "503-309-1077",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "45 East (E45T LLC)",
+    "primaryContact": "Mario A. Lara, 61062\nmario@45eastpdx.com",
+    "address": "315 SE 3rd\nPortland, OR 97214",
+    "phone": "503-309-1077",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "45 East (E45T LLC)",
+    "primaryContact": "Mario A. Lara, 61062\nmario@45eastpdx.com",
+    "address": "315 SE 3rd\nPortland, OR 97214",
+    "phone": "503-309-1077",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "45 East (E45T LLC)",
+    "primaryContact": "Mario A. Lara, 61062\nmario@45eastpdx.com",
+    "address": "315 SE 3rd\nPortland, OR 97214",
+    "phone": "503-309-1077",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "501 Grill - Sports Bar and Grill",
+    "primaryContact": "Mark Liang, 59007\npao5star@yahoo.com",
+    "address": "485 Marylhurst Dr.\nWest Linn, OR 97068-1826",
+    "phone": "503-528-6401",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "501 Grill - Sports Bar and Grill",
+    "primaryContact": "Mark Liang, 59007\npao5star@yahoo.com",
+    "address": "485 Marylhurst Dr.\nWest Linn, OR 97068-1826",
+    "phone": "503-528-6401",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "501 Grill - Sports Bar and Grill",
+    "primaryContact": "Mark Liang, 59007\npao5star@yahoo.com",
+    "address": "485 Marylhurst Dr.\nWest Linn, OR 97068-1826",
+    "phone": "503-528-6401",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "501 Grill - Sports Bar and Grill",
+    "primaryContact": "Mark Liang, 59007\npao5star@yahoo.com",
+    "address": "485 Marylhurst Dr.\nWest Linn, OR 97068-1826",
+    "phone": "503-528-6401",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "501 Grill - Sports Bar and Grill",
+    "primaryContact": "Mark Liang, 59007\npao5star@yahoo.com",
+    "address": "485 Marylhurst Dr.\nWest Linn, OR 97068-1826",
+    "phone": "503-528-6401",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "501 Grill - Sports Bar and Grill",
+    "primaryContact": "Mark Liang, 59007\npao5star@yahoo.com",
+    "address": "485 Marylhurst Dr.\nWest Linn, OR 97068-1826",
+    "phone": "503-528-6401",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "540 Tactical Solutions",
+    "primaryContact": "James J. Holman, 69572",
+    "address": "PO Box 2991\nWilsonville, OR 97070",
+    "phone": "971-202-8957",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "540 Tactical Solutions",
+    "primaryContact": "James J. Holman, 69572",
+    "address": "PO Box 2991\nWilsonville, OR 97070",
+    "phone": "971-202-8957",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "540 Tactical Solutions",
+    "primaryContact": "James J. Holman, 69572",
+    "address": "PO Box 2991\nWilsonville, OR 97070",
+    "phone": "971-202-8957",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "540 Tactical Solutions",
+    "primaryContact": "James J. Holman, 69572",
+    "address": "PO Box 2991\nWilsonville, OR 97070",
+    "phone": "971-202-8957",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "540 Tactical Solutions",
+    "primaryContact": "James J. Holman, 69572",
+    "address": "PO Box 2991\nWilsonville, OR 97070",
+    "phone": "971-202-8957",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "540 Tactical Solutions",
+    "primaryContact": "James J. Holman, 69572",
+    "address": "PO Box 2991\nWilsonville, OR 97070",
+    "phone": "971-202-8957",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "5th Avenue Lounge",
+    "primaryContact": "Sean L. Renner, 43635\nsentinal_53@msn.com",
+    "address": "125 NW 5th Ave\nPortland, OR 99209",
+    "phone": "503-477-8626",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "5th Avenue Lounge",
+    "primaryContact": "Sean L. Renner, 43635\nsentinal_53@msn.com",
+    "address": "125 NW 5th Ave\nPortland, OR 99209",
+    "phone": "503-477-8626",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "5th Avenue Lounge",
+    "primaryContact": "Sean L. Renner, 43635\nsentinal_53@msn.com",
+    "address": "125 NW 5th Ave\nPortland, OR 99209",
+    "phone": "503-477-8626",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "5th Avenue Lounge",
+    "primaryContact": "Sean L. Renner, 43635\nsentinal_53@msn.com",
+    "address": "125 NW 5th Ave\nPortland, OR 99209",
+    "phone": "503-477-8626",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "5th Avenue Lounge",
+    "primaryContact": "Sean L. Renner, 43635\nsentinal_53@msn.com",
+    "address": "125 NW 5th Ave\nPortland, OR 99209",
+    "phone": "503-477-8626",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "5th Avenue Lounge",
+    "primaryContact": "Sean L. Renner, 43635\nsentinal_53@msn.com",
+    "address": "125 NW 5th Ave\nPortland, OR 99209",
+    "phone": "503-477-8626",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "7 Feathers Casino",
+    "primaryContact": "Glenn Gunter",
+    "address": "146 Chief Muwaleta Lane\nCanyonville, OR 97417-9700",
+    "phone": "541-839-1111",
+    "county": "Douglas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "7 Feathers Casino",
+    "primaryContact": "Glenn Gunter",
+    "address": "146 Chief Muwaleta Lane\nCanyonville, OR 97417-9700",
+    "phone": "541-839-1111",
+    "county": "Douglas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "7 Feathers Casino",
+    "primaryContact": "Glenn Gunter",
+    "address": "146 Chief Muwaleta Lane\nCanyonville, OR 97417-9700",
+    "phone": "541-839-1111",
+    "county": "Douglas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "7 Feathers Casino",
+    "primaryContact": "Glenn Gunter",
+    "address": "146 Chief Muwaleta Lane\nCanyonville, OR 97417-9700",
+    "phone": "541-839-1111",
+    "county": "Douglas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "7 Feathers Casino",
+    "primaryContact": "Glenn Gunter",
+    "address": "146 Chief Muwaleta Lane\nCanyonville, OR 97417-9700",
+    "phone": "541-839-1111",
+    "county": "Douglas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "7 Feathers Casino",
+    "primaryContact": "Glenn Gunter",
+    "address": "146 Chief Muwaleta Lane\nCanyonville, OR 97417-9700",
+    "phone": "541-839-1111",
+    "county": "Douglas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "720 Room, LLC",
+    "primaryContact": "",
+    "address": "1805 SE 113TH Ave\nPortland, OR 97216",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "720 Room, LLC",
+    "primaryContact": "",
+    "address": "1805 SE 113TH Ave\nPortland, OR 97216",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "720 Room, LLC",
+    "primaryContact": "",
+    "address": "1805 SE 113TH Ave\nPortland, OR 97216",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "720 Room, LLC",
+    "primaryContact": "",
+    "address": "1805 SE 113TH Ave\nPortland, OR 97216",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "720 Room, LLC",
+    "primaryContact": "",
+    "address": "1805 SE 113TH Ave\nPortland, OR 97216",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "720 Room, LLC",
+    "primaryContact": "",
+    "address": "1805 SE 113TH Ave\nPortland, OR 97216",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "92nd Street Club",
+    "primaryContact": "Jerry Grant",
+    "address": "5933 SE 92nd Avenue\nPortland, OR 97266",
+    "phone": "503-349-7214",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "92nd Street Club",
+    "primaryContact": "Jerry Grant",
+    "address": "5933 SE 92nd Avenue\nPortland, OR 97266",
+    "phone": "503-349-7214",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "92nd Street Club",
+    "primaryContact": "Jerry Grant",
+    "address": "5933 SE 92nd Avenue\nPortland, OR 97266",
+    "phone": "503-349-7214",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "92nd Street Club",
+    "primaryContact": "Jerry Grant",
+    "address": "5933 SE 92nd Avenue\nPortland, OR 97266",
+    "phone": "503-349-7214",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "92nd Street Club",
+    "primaryContact": "Jerry Grant",
+    "address": "5933 SE 92nd Avenue\nPortland, OR 97266",
+    "phone": "503-349-7214",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "92nd Street Club",
+    "primaryContact": "Jerry Grant",
+    "address": "5933 SE 92nd Avenue\nPortland, OR 97266",
+    "phone": "503-349-7214",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A & A Security Systems & Services",
+    "primaryContact": "Kyle G. Lewis, 12298\nservice@aasecurity.com",
+    "address": "255 N Linder Rd\nMeridian, ID 83642",
+    "phone": "208-887-6300",
+    "county": "Idaho",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A & A Security Systems & Services",
+    "primaryContact": "Kyle G. Lewis, 12298\nservice@aasecurity.com",
+    "address": "255 N Linder Rd\nMeridian, ID 83642",
+    "phone": "208-887-6300",
+    "county": "Idaho",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A & A Security Systems & Services",
+    "primaryContact": "Kyle G. Lewis, 12298\nservice@aasecurity.com",
+    "address": "255 N Linder Rd\nMeridian, ID 83642",
+    "phone": "208-887-6300",
+    "county": "Idaho",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A & A Security Systems & Services",
+    "primaryContact": "Kyle G. Lewis, 12298\nservice@aasecurity.com",
+    "address": "255 N Linder Rd\nMeridian, ID 83642",
+    "phone": "208-887-6300",
+    "county": "Idaho",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A & A Security Systems & Services",
+    "primaryContact": "Kyle G. Lewis, 12298\nservice@aasecurity.com",
+    "address": "255 N Linder Rd\nMeridian, ID 83642",
+    "phone": "208-887-6300",
+    "county": "Idaho",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A & A Security Systems & Services",
+    "primaryContact": "Kyle G. Lewis, 12298\nservice@aasecurity.com",
+    "address": "255 N Linder Rd\nMeridian, ID 83642",
+    "phone": "208-887-6300",
+    "county": "Idaho",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A-dec Inc",
+    "primaryContact": "Russ Brandt, 47503",
+    "address": "PO Box 111\nNewberg, OR 97132-0111",
+    "phone": "503-538-9471",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A-dec Inc",
+    "primaryContact": "Russ Brandt, 47503",
+    "address": "PO Box 111\nNewberg, OR 97132-0111",
+    "phone": "503-538-9471",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A-dec Inc",
+    "primaryContact": "Russ Brandt, 47503",
+    "address": "PO Box 111\nNewberg, OR 97132-0111",
+    "phone": "503-538-9471",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A-dec Inc",
+    "primaryContact": "Russ Brandt, 47503",
+    "address": "PO Box 111\nNewberg, OR 97132-0111",
+    "phone": "503-538-9471",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A-dec Inc",
+    "primaryContact": "Russ Brandt, 47503",
+    "address": "PO Box 111\nNewberg, OR 97132-0111",
+    "phone": "503-538-9471",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A-dec Inc",
+    "primaryContact": "Russ Brandt, 47503",
+    "address": "PO Box 111\nNewberg, OR 97132-0111",
+    "phone": "503-538-9471",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A-Pride Security",
+    "primaryContact": "Arnold J. Pride, 54215\narnoldjff@aol.com",
+    "address": "1101 N Marine Drive, #208\nPortland, OR 97217",
+    "phone": "503-995-1315",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A-Pride Security",
+    "primaryContact": "Arnold J. Pride, 54215\narnoldjff@aol.com",
+    "address": "1101 N Marine Drive, #208\nPortland, OR 97217",
+    "phone": "503-995-1315",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A-Pride Security",
+    "primaryContact": "Arnold J. Pride, 54215\narnoldjff@aol.com",
+    "address": "1101 N Marine Drive, #208\nPortland, OR 97217",
+    "phone": "503-995-1315",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A-Pride Security",
+    "primaryContact": "Arnold J. Pride, 54215\narnoldjff@aol.com",
+    "address": "1101 N Marine Drive, #208\nPortland, OR 97217",
+    "phone": "503-995-1315",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A-Pride Security",
+    "primaryContact": "Arnold J. Pride, 54215\narnoldjff@aol.com",
+    "address": "1101 N Marine Drive, #208\nPortland, OR 97217",
+    "phone": "503-995-1315",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A-Pride Security",
+    "primaryContact": "Arnold J. Pride, 54215\narnoldjff@aol.com",
+    "address": "1101 N Marine Drive, #208\nPortland, OR 97217",
+    "phone": "503-995-1315",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A. A. Bear Security",
+    "primaryContact": "Eric J. Kovarik, 24470",
+    "address": "",
+    "phone": "360-882-9024",
+    "county": "Clark County Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A. A. Bear Security",
+    "primaryContact": "Eric J. Kovarik, 24470",
+    "address": "",
+    "phone": "360-882-9024",
+    "county": "Clark County Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A. A. Bear Security",
+    "primaryContact": "Eric J. Kovarik, 24470",
+    "address": "",
+    "phone": "360-882-9024",
+    "county": "Clark County Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A. A. Bear Security",
+    "primaryContact": "Eric J. Kovarik, 24470",
+    "address": "",
+    "phone": "360-882-9024",
+    "county": "Clark County Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A. A. Bear Security",
+    "primaryContact": "Eric J. Kovarik, 24470",
+    "address": "",
+    "phone": "360-882-9024",
+    "county": "Clark County Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A. A. Bear Security",
+    "primaryContact": "Eric J. Kovarik, 24470",
+    "address": "",
+    "phone": "360-882-9024",
+    "county": "Clark County Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A1 National Security Service LLC",
+    "primaryContact": "Damon Freeman, 04986\na1nss1@yahoo.com",
+    "address": "11502 NE Glisan St.\nPortland, OR 97220",
+    "phone": "503-998-1527",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A1 National Security Service LLC",
+    "primaryContact": "Damon Freeman, 04986\na1nss1@yahoo.com",
+    "address": "11502 NE Glisan St.\nPortland, OR 97220",
+    "phone": "503-998-1527",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A1 National Security Service LLC",
+    "primaryContact": "Damon Freeman, 04986\na1nss1@yahoo.com",
+    "address": "11502 NE Glisan St.\nPortland, OR 97220",
+    "phone": "503-998-1527",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A1 National Security Service LLC",
+    "primaryContact": "Damon Freeman, 04986\na1nss1@yahoo.com",
+    "address": "11502 NE Glisan St.\nPortland, OR 97220",
+    "phone": "503-998-1527",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A1 National Security Service LLC",
+    "primaryContact": "Damon Freeman, 04986\na1nss1@yahoo.com",
+    "address": "11502 NE Glisan St.\nPortland, OR 97220",
+    "phone": "503-998-1527",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A1 National Security Service LLC",
+    "primaryContact": "Damon Freeman, 04986\na1nss1@yahoo.com",
+    "address": "11502 NE Glisan St.\nPortland, OR 97220",
+    "phone": "503-998-1527",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "A1 Protective Services LLC",
+    "primaryContact": "Joey Harp, 15119\nharpcotraining@gmail.com",
+    "address": "7000 Franklin Blvd., Suite 665\nSacramento, CA 95823",
+    "phone": "",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A1 Protective Services LLC",
+    "primaryContact": "Joey Harp, 15119\nharpcotraining@gmail.com",
+    "address": "7000 Franklin Blvd., Suite 665\nSacramento, CA 95823",
+    "phone": "",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A1 Protective Services LLC",
+    "primaryContact": "Joey Harp, 15119\nharpcotraining@gmail.com",
+    "address": "7000 Franklin Blvd., Suite 665\nSacramento, CA 95823",
+    "phone": "",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A1 Protective Services LLC",
+    "primaryContact": "Joey Harp, 15119\nharpcotraining@gmail.com",
+    "address": "7000 Franklin Blvd., Suite 665\nSacramento, CA 95823",
+    "phone": "",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A1 Protective Services LLC",
+    "primaryContact": "Joey Harp, 15119\nharpcotraining@gmail.com",
+    "address": "7000 Franklin Blvd., Suite 665\nSacramento, CA 95823",
+    "phone": "",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "A1 Protective Services LLC",
+    "primaryContact": "Joey Harp, 15119\nharpcotraining@gmail.com",
+    "address": "7000 Franklin Blvd., Suite 665\nSacramento, CA 95823",
+    "phone": "",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "AAA Support Services, Inc.",
+    "primaryContact": "Michael P. Snyder, 17984\nadmin@aaasupportservices.com",
+    "address": "PO Box 894\nLexington, VA 24450",
+    "phone": "360-980-4412",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AAA Support Services, Inc.",
+    "primaryContact": "Michael P. Snyder, 17984\nadmin@aaasupportservices.com",
+    "address": "PO Box 894\nLexington, VA 24450",
+    "phone": "360-980-4412",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AAA Support Services, Inc.",
+    "primaryContact": "Michael P. Snyder, 17984\nadmin@aaasupportservices.com",
+    "address": "PO Box 894\nLexington, VA 24450",
+    "phone": "360-980-4412",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AAA Support Services, Inc.",
+    "primaryContact": "Michael P. Snyder, 17984\nadmin@aaasupportservices.com",
+    "address": "PO Box 894\nLexington, VA 24450",
+    "phone": "360-980-4412",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AAA Support Services, Inc.",
+    "primaryContact": "Michael P. Snyder, 17984\nadmin@aaasupportservices.com",
+    "address": "PO Box 894\nLexington, VA 24450",
+    "phone": "360-980-4412",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AAA Support Services, Inc.",
+    "primaryContact": "Michael P. Snyder, 17984\nadmin@aaasupportservices.com",
+    "address": "PO Box 894\nLexington, VA 24450",
+    "phone": "360-980-4412",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AACPL, LLC dba The Gold Club",
+    "primaryContact": "Damien M. Hawke, 69509\ndmh223@hotmail.com",
+    "address": "17180 SE McLoughlin Blvd\nMilwaukie, OR 97267",
+    "phone": "503-908-1177",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AACPL, LLC dba The Gold Club",
+    "primaryContact": "Damien M. Hawke, 69509\ndmh223@hotmail.com",
+    "address": "17180 SE McLoughlin Blvd\nMilwaukie, OR 97267",
+    "phone": "503-908-1177",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AACPL, LLC dba The Gold Club",
+    "primaryContact": "Damien M. Hawke, 69509\ndmh223@hotmail.com",
+    "address": "17180 SE McLoughlin Blvd\nMilwaukie, OR 97267",
+    "phone": "503-908-1177",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AACPL, LLC dba The Gold Club",
+    "primaryContact": "Damien M. Hawke, 69509\ndmh223@hotmail.com",
+    "address": "17180 SE McLoughlin Blvd\nMilwaukie, OR 97267",
+    "phone": "503-908-1177",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AACPL, LLC dba The Gold Club",
+    "primaryContact": "Damien M. Hawke, 69509\ndmh223@hotmail.com",
+    "address": "17180 SE McLoughlin Blvd\nMilwaukie, OR 97267",
+    "phone": "503-908-1177",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AACPL, LLC dba The Gold Club",
+    "primaryContact": "Damien M. Hawke, 69509\ndmh223@hotmail.com",
+    "address": "17180 SE McLoughlin Blvd\nMilwaukie, OR 97267",
+    "phone": "503-908-1177",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ABC Security",
+    "primaryContact": "Wayne P. Cheney, 07503",
+    "address": "PO Box 445\nTualatin, OR 97062-0445",
+    "phone": "503-720-0797",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ABC Security",
+    "primaryContact": "Wayne P. Cheney, 07503",
+    "address": "PO Box 445\nTualatin, OR 97062-0445",
+    "phone": "503-720-0797",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ABC Security",
+    "primaryContact": "Wayne P. Cheney, 07503",
+    "address": "PO Box 445\nTualatin, OR 97062-0445",
+    "phone": "503-720-0797",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ABC Security",
+    "primaryContact": "Wayne P. Cheney, 07503",
+    "address": "PO Box 445\nTualatin, OR 97062-0445",
+    "phone": "503-720-0797",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ABC Security",
+    "primaryContact": "Wayne P. Cheney, 07503",
+    "address": "PO Box 445\nTualatin, OR 97062-0445",
+    "phone": "503-720-0797",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ABC Security",
+    "primaryContact": "Wayne P. Cheney, 07503",
+    "address": "PO Box 445\nTualatin, OR 97062-0445",
+    "phone": "503-720-0797",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Abercrombie and Fitch",
+    "primaryContact": "Gelila Tadessa, 58275\ngelila19@hotmail.com",
+    "address": "2201 Lloyd Center Space #1103\nPortland, OR 97232",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Abercrombie and Fitch",
+    "primaryContact": "Gelila Tadessa, 58275\ngelila19@hotmail.com",
+    "address": "2201 Lloyd Center Space #1103\nPortland, OR 97232",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Abercrombie and Fitch",
+    "primaryContact": "Gelila Tadessa, 58275\ngelila19@hotmail.com",
+    "address": "2201 Lloyd Center Space #1103\nPortland, OR 97232",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Abercrombie and Fitch",
+    "primaryContact": "Gelila Tadessa, 58275\ngelila19@hotmail.com",
+    "address": "2201 Lloyd Center Space #1103\nPortland, OR 97232",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Abercrombie and Fitch",
+    "primaryContact": "Gelila Tadessa, 58275\ngelila19@hotmail.com",
+    "address": "2201 Lloyd Center Space #1103\nPortland, OR 97232",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Abercrombie and Fitch",
+    "primaryContact": "Gelila Tadessa, 58275\ngelila19@hotmail.com",
+    "address": "2201 Lloyd Center Space #1103\nPortland, OR 97232",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Able Patrol & Guard",
+    "primaryContact": "George M. Grauer, 54045\ndeborah@ablepatrolandguard.com",
+    "address": "4616 Mission Gorge Place\nSan Diego, CA 92120-4133",
+    "phone": "619-229-6100",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Able Patrol & Guard",
+    "primaryContact": "George M. Grauer, 54045\ndeborah@ablepatrolandguard.com",
+    "address": "4616 Mission Gorge Place\nSan Diego, CA 92120-4133",
+    "phone": "619-229-6100",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Able Patrol & Guard",
+    "primaryContact": "George M. Grauer, 54045\ndeborah@ablepatrolandguard.com",
+    "address": "4616 Mission Gorge Place\nSan Diego, CA 92120-4133",
+    "phone": "619-229-6100",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Able Patrol & Guard",
+    "primaryContact": "George M. Grauer, 54045\ndeborah@ablepatrolandguard.com",
+    "address": "4616 Mission Gorge Place\nSan Diego, CA 92120-4133",
+    "phone": "619-229-6100",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Able Patrol & Guard",
+    "primaryContact": "George M. Grauer, 54045\ndeborah@ablepatrolandguard.com",
+    "address": "4616 Mission Gorge Place\nSan Diego, CA 92120-4133",
+    "phone": "619-229-6100",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Able Patrol & Guard",
+    "primaryContact": "George M. Grauer, 54045\ndeborah@ablepatrolandguard.com",
+    "address": "4616 Mission Gorge Place\nSan Diego, CA 92120-4133",
+    "phone": "619-229-6100",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ABM Security Services (ACSS)",
+    "primaryContact": "Steven A. Hayes, 48032\nsteve.hayes@abm.com",
+    "address": "1320 NE 63rd Ave\nPortland, OR 97213",
+    "phone": "503-245-1403",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ABM Security Services (ACSS)",
+    "primaryContact": "Steven A. Hayes, 48032\nsteve.hayes@abm.com",
+    "address": "1320 NE 63rd Ave\nPortland, OR 97213",
+    "phone": "503-245-1403",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ABM Security Services (ACSS)",
+    "primaryContact": "Steven A. Hayes, 48032\nsteve.hayes@abm.com",
+    "address": "1320 NE 63rd Ave\nPortland, OR 97213",
+    "phone": "503-245-1403",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ABM Security Services (ACSS)",
+    "primaryContact": "Steven A. Hayes, 48032\nsteve.hayes@abm.com",
+    "address": "1320 NE 63rd Ave\nPortland, OR 97213",
+    "phone": "503-245-1403",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ABM Security Services (ACSS)",
+    "primaryContact": "Steven A. Hayes, 48032\nsteve.hayes@abm.com",
+    "address": "1320 NE 63rd Ave\nPortland, OR 97213",
+    "phone": "503-245-1403",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ABM Security Services (ACSS)",
+    "primaryContact": "Steven A. Hayes, 48032\nsteve.hayes@abm.com",
+    "address": "1320 NE 63rd Ave\nPortland, OR 97213",
+    "phone": "503-245-1403",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Absolute Protection Company",
+    "primaryContact": "Lawrence Pavone",
+    "address": "PO Box 902\nLusk, WY 822250902",
+    "phone": "0 -0 -",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Protection Company",
+    "primaryContact": "Lawrence Pavone",
+    "address": "PO Box 902\nLusk, WY 822250902",
+    "phone": "0 -0 -",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Protection Company",
+    "primaryContact": "Lawrence Pavone",
+    "address": "PO Box 902\nLusk, WY 822250902",
+    "phone": "0 -0 -",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Protection Company",
+    "primaryContact": "Lawrence Pavone",
+    "address": "PO Box 902\nLusk, WY 822250902",
+    "phone": "0 -0 -",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Protection Company",
+    "primaryContact": "Lawrence Pavone",
+    "address": "PO Box 902\nLusk, WY 822250902",
+    "phone": "0 -0 -",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Protection Company",
+    "primaryContact": "Lawrence Pavone",
+    "address": "PO Box 902\nLusk, WY 822250902",
+    "phone": "0 -0 -",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Security Inc",
+    "primaryContact": "Jim L. Russell, 00554",
+    "address": "PO Box 2156\nEugene, OR 97402",
+    "phone": "541-342-4597",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Security Inc",
+    "primaryContact": "Jim L. Russell, 00554",
+    "address": "PO Box 2156\nEugene, OR 97402",
+    "phone": "541-342-4597",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Security Inc",
+    "primaryContact": "Jim L. Russell, 00554",
+    "address": "PO Box 2156\nEugene, OR 97402",
+    "phone": "541-342-4597",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Security Inc",
+    "primaryContact": "Jim L. Russell, 00554",
+    "address": "PO Box 2156\nEugene, OR 97402",
+    "phone": "541-342-4597",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Security Inc",
+    "primaryContact": "Jim L. Russell, 00554",
+    "address": "PO Box 2156\nEugene, OR 97402",
+    "phone": "541-342-4597",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Absolute Security Inc",
+    "primaryContact": "Jim L. Russell, 00554",
+    "address": "PO Box 2156\nEugene, OR 97402",
+    "phone": "541-342-4597",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Acadian Monitoring Services",
+    "primaryContact": "Brian J. Winder, 64365",
+    "address": "P.O. Box 98000\nLafayette, LA 70509-8000",
+    "phone": "337-291-4001",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acadian Monitoring Services",
+    "primaryContact": "Brian J. Winder, 64365",
+    "address": "P.O. Box 98000\nLafayette, LA 70509-8000",
+    "phone": "337-291-4001",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acadian Monitoring Services",
+    "primaryContact": "Brian J. Winder, 64365",
+    "address": "P.O. Box 98000\nLafayette, LA 70509-8000",
+    "phone": "337-291-4001",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acadian Monitoring Services",
+    "primaryContact": "Brian J. Winder, 64365",
+    "address": "P.O. Box 98000\nLafayette, LA 70509-8000",
+    "phone": "337-291-4001",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acadian Monitoring Services",
+    "primaryContact": "Brian J. Winder, 64365",
+    "address": "P.O. Box 98000\nLafayette, LA 70509-8000",
+    "phone": "337-291-4001",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acadian Monitoring Services",
+    "primaryContact": "Brian J. Winder, 64365",
+    "address": "P.O. Box 98000\nLafayette, LA 70509-8000",
+    "phone": "337-291-4001",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Access Consulting Group",
+    "primaryContact": "Steve Slagowski",
+    "address": "381 Strawberry Loop\nSweet Home, OR 97386-1327",
+    "phone": "",
+    "county": "Linn",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Access Consulting Group",
+    "primaryContact": "Steve Slagowski",
+    "address": "381 Strawberry Loop\nSweet Home, OR 97386-1327",
+    "phone": "",
+    "county": "Linn",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Access Consulting Group",
+    "primaryContact": "Steve Slagowski",
+    "address": "381 Strawberry Loop\nSweet Home, OR 97386-1327",
+    "phone": "",
+    "county": "Linn",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Access Consulting Group",
+    "primaryContact": "Steve Slagowski",
+    "address": "381 Strawberry Loop\nSweet Home, OR 97386-1327",
+    "phone": "",
+    "county": "Linn",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Access Consulting Group",
+    "primaryContact": "Steve Slagowski",
+    "address": "381 Strawberry Loop\nSweet Home, OR 97386-1327",
+    "phone": "",
+    "county": "Linn",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Access Consulting Group",
+    "primaryContact": "Steve Slagowski",
+    "address": "381 Strawberry Loop\nSweet Home, OR 97386-1327",
+    "phone": "",
+    "county": "Linn",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Accuracy First, LLC",
+    "primaryContact": "Britt L. Jacobs, 61836\njacobs.britt@gmail.com",
+    "address": "1415 Arabian Court\nNewberg, OR 97132",
+    "phone": "503-969-3144",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Accuracy First, LLC",
+    "primaryContact": "Britt L. Jacobs, 61836\njacobs.britt@gmail.com",
+    "address": "1415 Arabian Court\nNewberg, OR 97132",
+    "phone": "503-969-3144",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Accuracy First, LLC",
+    "primaryContact": "Britt L. Jacobs, 61836\njacobs.britt@gmail.com",
+    "address": "1415 Arabian Court\nNewberg, OR 97132",
+    "phone": "503-969-3144",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Accuracy First, LLC",
+    "primaryContact": "Britt L. Jacobs, 61836\njacobs.britt@gmail.com",
+    "address": "1415 Arabian Court\nNewberg, OR 97132",
+    "phone": "503-969-3144",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Accuracy First, LLC",
+    "primaryContact": "Britt L. Jacobs, 61836\njacobs.britt@gmail.com",
+    "address": "1415 Arabian Court\nNewberg, OR 97132",
+    "phone": "503-969-3144",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Accuracy First, LLC",
+    "primaryContact": "Britt L. Jacobs, 61836\njacobs.britt@gmail.com",
+    "address": "1415 Arabian Court\nNewberg, OR 97132",
+    "phone": "503-969-3144",
+    "county": "Yamhill",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Event Service, Inc.",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Event Service, Inc.",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Event Service, Inc.",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Event Service, Inc.",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Event Service, Inc.",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Event Service, Inc.",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Hotel",
+    "primaryContact": "Timothy Harlow, 39957\ncccaharlow@gmail.com",
+    "address": "1022 SW Stark St.\nPortland, OR 97205",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ace Hotel",
+    "primaryContact": "Timothy Harlow, 39957\ncccaharlow@gmail.com",
+    "address": "1022 SW Stark St.\nPortland, OR 97205",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ace Hotel",
+    "primaryContact": "Timothy Harlow, 39957\ncccaharlow@gmail.com",
+    "address": "1022 SW Stark St.\nPortland, OR 97205",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ace Hotel",
+    "primaryContact": "Timothy Harlow, 39957\ncccaharlow@gmail.com",
+    "address": "1022 SW Stark St.\nPortland, OR 97205",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ace Hotel",
+    "primaryContact": "Timothy Harlow, 39957\ncccaharlow@gmail.com",
+    "address": "1022 SW Stark St.\nPortland, OR 97205",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ace Hotel",
+    "primaryContact": "Timothy Harlow, 39957\ncccaharlow@gmail.com",
+    "address": "1022 SW Stark St.\nPortland, OR 97205",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ace Private Security",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Private Security",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Private Security",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Private Security",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Private Security",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ace Private Security",
+    "primaryContact": "Cheryll E. Brookins, 22840\naceeventservices@comcast.net",
+    "address": "PO Box 55368\nPortland, OR 97238-5368",
+    "phone": "503-335-1417",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Achates Security Agency",
+    "primaryContact": "Kristin Waters, 51926\njwaters@achatessecurity.com",
+    "address": "",
+    "phone": "360-693-2299",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Achates Security Agency",
+    "primaryContact": "Kristin Waters, 51926\njwaters@achatessecurity.com",
+    "address": "",
+    "phone": "360-693-2299",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Achates Security Agency",
+    "primaryContact": "Kristin Waters, 51926\njwaters@achatessecurity.com",
+    "address": "",
+    "phone": "360-693-2299",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Achates Security Agency",
+    "primaryContact": "Kristin Waters, 51926\njwaters@achatessecurity.com",
+    "address": "",
+    "phone": "360-693-2299",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Achates Security Agency",
+    "primaryContact": "Kristin Waters, 51926\njwaters@achatessecurity.com",
+    "address": "",
+    "phone": "360-693-2299",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Achates Security Agency",
+    "primaryContact": "Kristin Waters, 51926\njwaters@achatessecurity.com",
+    "address": "",
+    "phone": "360-693-2299",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Acree Enterprises, LLC",
+    "primaryContact": "Jesse Acree, 74508\njesseacreepdx@gmail.com",
+    "address": "15824 SE 114th Ave\nClackamas, OR 97015",
+    "phone": "503-927-6234",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acree Enterprises, LLC",
+    "primaryContact": "Jesse Acree, 74508\njesseacreepdx@gmail.com",
+    "address": "15824 SE 114th Ave\nClackamas, OR 97015",
+    "phone": "503-927-6234",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acree Enterprises, LLC",
+    "primaryContact": "Jesse Acree, 74508\njesseacreepdx@gmail.com",
+    "address": "15824 SE 114th Ave\nClackamas, OR 97015",
+    "phone": "503-927-6234",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acree Enterprises, LLC",
+    "primaryContact": "Jesse Acree, 74508\njesseacreepdx@gmail.com",
+    "address": "15824 SE 114th Ave\nClackamas, OR 97015",
+    "phone": "503-927-6234",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acree Enterprises, LLC",
+    "primaryContact": "Jesse Acree, 74508\njesseacreepdx@gmail.com",
+    "address": "15824 SE 114th Ave\nClackamas, OR 97015",
+    "phone": "503-927-6234",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acree Enterprises, LLC",
+    "primaryContact": "Jesse Acree, 74508\njesseacreepdx@gmail.com",
+    "address": "15824 SE 114th Ave\nClackamas, OR 97015",
+    "phone": "503-927-6234",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acropolis McLoughlin Inc",
+    "primaryContact": "Tony A. Davenport",
+    "address": "8325 SE McLoughlin\nPortland, OR 97202",
+    "phone": "503-231-9611",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acropolis McLoughlin Inc",
+    "primaryContact": "Tony A. Davenport",
+    "address": "8325 SE McLoughlin\nPortland, OR 97202",
+    "phone": "503-231-9611",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acropolis McLoughlin Inc",
+    "primaryContact": "Tony A. Davenport",
+    "address": "8325 SE McLoughlin\nPortland, OR 97202",
+    "phone": "503-231-9611",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acropolis McLoughlin Inc",
+    "primaryContact": "Tony A. Davenport",
+    "address": "8325 SE McLoughlin\nPortland, OR 97202",
+    "phone": "503-231-9611",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acropolis McLoughlin Inc",
+    "primaryContact": "Tony A. Davenport",
+    "address": "8325 SE McLoughlin\nPortland, OR 97202",
+    "phone": "503-231-9611",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Acropolis McLoughlin Inc",
+    "primaryContact": "Tony A. Davenport",
+    "address": "8325 SE McLoughlin\nPortland, OR 97202",
+    "phone": "503-231-9611",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Facilities Management, Inc.",
+    "primaryContact": "Kevin S. Lapp, 23829\nkslapp@actionfacilities.com",
+    "address": "115 Malone Dr.\nMorgan Town, WV 26501",
+    "phone": "304-599-6850",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Facilities Management, Inc.",
+    "primaryContact": "Kevin S. Lapp, 23829\nkslapp@actionfacilities.com",
+    "address": "115 Malone Dr.\nMorgan Town, WV 26501",
+    "phone": "304-599-6850",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Facilities Management, Inc.",
+    "primaryContact": "Kevin S. Lapp, 23829\nkslapp@actionfacilities.com",
+    "address": "115 Malone Dr.\nMorgan Town, WV 26501",
+    "phone": "304-599-6850",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Facilities Management, Inc.",
+    "primaryContact": "Kevin S. Lapp, 23829\nkslapp@actionfacilities.com",
+    "address": "115 Malone Dr.\nMorgan Town, WV 26501",
+    "phone": "304-599-6850",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Facilities Management, Inc.",
+    "primaryContact": "Kevin S. Lapp, 23829\nkslapp@actionfacilities.com",
+    "address": "115 Malone Dr.\nMorgan Town, WV 26501",
+    "phone": "304-599-6850",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Facilities Management, Inc.",
+    "primaryContact": "Kevin S. Lapp, 23829\nkslapp@actionfacilities.com",
+    "address": "115 Malone Dr.\nMorgan Town, WV 26501",
+    "phone": "304-599-6850",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Security, Inc.",
+    "primaryContact": "Donald T. English, 00356\ndogdads@gmail.com",
+    "address": "308 North Central Ave\nMedford, OR 97504",
+    "phone": "541-779-6596",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Security, Inc.",
+    "primaryContact": "Donald T. English, 00356\ndogdads@gmail.com",
+    "address": "308 North Central Ave\nMedford, OR 97504",
+    "phone": "541-779-6596",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Security, Inc.",
+    "primaryContact": "Donald T. English, 00356\ndogdads@gmail.com",
+    "address": "308 North Central Ave\nMedford, OR 97504",
+    "phone": "541-779-6596",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Security, Inc.",
+    "primaryContact": "Donald T. English, 00356\ndogdads@gmail.com",
+    "address": "308 North Central Ave\nMedford, OR 97504",
+    "phone": "541-779-6596",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Security, Inc.",
+    "primaryContact": "Donald T. English, 00356\ndogdads@gmail.com",
+    "address": "308 North Central Ave\nMedford, OR 97504",
+    "phone": "541-779-6596",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action Security, Inc.",
+    "primaryContact": "Donald T. English, 00356\ndogdads@gmail.com",
+    "address": "308 North Central Ave\nMedford, OR 97504",
+    "phone": "541-779-6596",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Action-1 Security",
+    "primaryContact": "Charles Ellison",
+    "address": "",
+    "phone": "503-674-7683",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Action-1 Security",
+    "primaryContact": "Charles Ellison",
+    "address": "",
+    "phone": "503-674-7683",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Action-1 Security",
+    "primaryContact": "Charles Ellison",
+    "address": "",
+    "phone": "503-674-7683",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Action-1 Security",
+    "primaryContact": "Charles Ellison",
+    "address": "",
+    "phone": "503-674-7683",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Action-1 Security",
+    "primaryContact": "Charles Ellison",
+    "address": "",
+    "phone": "503-674-7683",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Action-1 Security",
+    "primaryContact": "Charles Ellison",
+    "address": "",
+    "phone": "503-674-7683",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Active Security Squad LLC",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Active Security Squad LLC",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Active Security Squad LLC",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Active Security Squad LLC",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Active Security Squad LLC",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Active Security Squad LLC",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Active Watch Monitoring USA, LTD.",
+    "primaryContact": "Milan M'Enesti, 75441\nmilan.menesti@activewatchsecurity.com",
+    "address": "14620 SW Sandhill Loop, Unit 204\nBeaverton, OR 97007",
+    "phone": "503-713-7523",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Active Watch Monitoring USA, LTD.",
+    "primaryContact": "Milan M'Enesti, 75441\nmilan.menesti@activewatchsecurity.com",
+    "address": "14620 SW Sandhill Loop, Unit 204\nBeaverton, OR 97007",
+    "phone": "503-713-7523",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Active Watch Monitoring USA, LTD.",
+    "primaryContact": "Milan M'Enesti, 75441\nmilan.menesti@activewatchsecurity.com",
+    "address": "14620 SW Sandhill Loop, Unit 204\nBeaverton, OR 97007",
+    "phone": "503-713-7523",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Active Watch Monitoring USA, LTD.",
+    "primaryContact": "Milan M'Enesti, 75441\nmilan.menesti@activewatchsecurity.com",
+    "address": "14620 SW Sandhill Loop, Unit 204\nBeaverton, OR 97007",
+    "phone": "503-713-7523",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Active Watch Monitoring USA, LTD.",
+    "primaryContact": "Milan M'Enesti, 75441\nmilan.menesti@activewatchsecurity.com",
+    "address": "14620 SW Sandhill Loop, Unit 204\nBeaverton, OR 97007",
+    "phone": "503-713-7523",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Active Watch Monitoring USA, LTD.",
+    "primaryContact": "Milan M'Enesti, 75441\nmilan.menesti@activewatchsecurity.com",
+    "address": "14620 SW Sandhill Loop, Unit 204\nBeaverton, OR 97007",
+    "phone": "503-713-7523",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ACTS Airport Services, Inc",
+    "primaryContact": "Christian Ryder, 74497\ncryder@acts-sec.com",
+    "address": "1127 Broadway St NE, Suite 310\nSalem, OR 97301",
+    "phone": "323-347-4531",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ACTS Airport Services, Inc",
+    "primaryContact": "Christian Ryder, 74497\ncryder@acts-sec.com",
+    "address": "1127 Broadway St NE, Suite 310\nSalem, OR 97301",
+    "phone": "323-347-4531",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ACTS Airport Services, Inc",
+    "primaryContact": "Christian Ryder, 74497\ncryder@acts-sec.com",
+    "address": "1127 Broadway St NE, Suite 310\nSalem, OR 97301",
+    "phone": "323-347-4531",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ACTS Airport Services, Inc",
+    "primaryContact": "Christian Ryder, 74497\ncryder@acts-sec.com",
+    "address": "1127 Broadway St NE, Suite 310\nSalem, OR 97301",
+    "phone": "323-347-4531",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ACTS Airport Services, Inc",
+    "primaryContact": "Christian Ryder, 74497\ncryder@acts-sec.com",
+    "address": "1127 Broadway St NE, Suite 310\nSalem, OR 97301",
+    "phone": "323-347-4531",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ACTS Airport Services, Inc",
+    "primaryContact": "Christian Ryder, 74497\ncryder@acts-sec.com",
+    "address": "1127 Broadway St NE, Suite 310\nSalem, OR 97301",
+    "phone": "323-347-4531",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adapt Oregon",
+    "primaryContact": "Leea Vigus, 56558\nleeav@adaptoregon.org",
+    "address": "621 Madrone St.\nRoseburg, OR 97470",
+    "phone": "541-672-2691",
+    "county": "Douglas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adapt Oregon",
+    "primaryContact": "Leea Vigus, 56558\nleeav@adaptoregon.org",
+    "address": "621 Madrone St.\nRoseburg, OR 97470",
+    "phone": "541-672-2691",
+    "county": "Douglas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adapt Oregon",
+    "primaryContact": "Leea Vigus, 56558\nleeav@adaptoregon.org",
+    "address": "621 Madrone St.\nRoseburg, OR 97470",
+    "phone": "541-672-2691",
+    "county": "Douglas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adapt Oregon",
+    "primaryContact": "Leea Vigus, 56558\nleeav@adaptoregon.org",
+    "address": "621 Madrone St.\nRoseburg, OR 97470",
+    "phone": "541-672-2691",
+    "county": "Douglas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adapt Oregon",
+    "primaryContact": "Leea Vigus, 56558\nleeav@adaptoregon.org",
+    "address": "621 Madrone St.\nRoseburg, OR 97470",
+    "phone": "541-672-2691",
+    "county": "Douglas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adapt Oregon",
+    "primaryContact": "Leea Vigus, 56558\nleeav@adaptoregon.org",
+    "address": "621 Madrone St.\nRoseburg, OR 97470",
+    "phone": "541-672-2691",
+    "county": "Douglas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADD Security Inc.",
+    "primaryContact": "V. Jean Brown, 02516\naddsecurityinc@comcast.net",
+    "address": "910 NE Minnehaha St. Ste. 9\nVancouver, WA 98665",
+    "phone": "360-693-9283",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADD Security Inc.",
+    "primaryContact": "V. Jean Brown, 02516\naddsecurityinc@comcast.net",
+    "address": "910 NE Minnehaha St. Ste. 9\nVancouver, WA 98665",
+    "phone": "360-693-9283",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADD Security Inc.",
+    "primaryContact": "V. Jean Brown, 02516\naddsecurityinc@comcast.net",
+    "address": "910 NE Minnehaha St. Ste. 9\nVancouver, WA 98665",
+    "phone": "360-693-9283",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADD Security Inc.",
+    "primaryContact": "V. Jean Brown, 02516\naddsecurityinc@comcast.net",
+    "address": "910 NE Minnehaha St. Ste. 9\nVancouver, WA 98665",
+    "phone": "360-693-9283",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADD Security Inc.",
+    "primaryContact": "V. Jean Brown, 02516\naddsecurityinc@comcast.net",
+    "address": "910 NE Minnehaha St. Ste. 9\nVancouver, WA 98665",
+    "phone": "360-693-9283",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADD Security Inc.",
+    "primaryContact": "V. Jean Brown, 02516\naddsecurityinc@comcast.net",
+    "address": "910 NE Minnehaha St. Ste. 9\nVancouver, WA 98665",
+    "phone": "360-693-9283",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Addelix LLC",
+    "primaryContact": "Anthony Dix, 71896\naddelix25@gmail.com",
+    "address": "12255 SW Alta Ct.\nWilsonville, OR 97070",
+    "phone": "503-302-5191",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Addelix LLC",
+    "primaryContact": "Anthony Dix, 71896\naddelix25@gmail.com",
+    "address": "12255 SW Alta Ct.\nWilsonville, OR 97070",
+    "phone": "503-302-5191",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Addelix LLC",
+    "primaryContact": "Anthony Dix, 71896\naddelix25@gmail.com",
+    "address": "12255 SW Alta Ct.\nWilsonville, OR 97070",
+    "phone": "503-302-5191",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Addelix LLC",
+    "primaryContact": "Anthony Dix, 71896\naddelix25@gmail.com",
+    "address": "12255 SW Alta Ct.\nWilsonville, OR 97070",
+    "phone": "503-302-5191",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Addelix LLC",
+    "primaryContact": "Anthony Dix, 71896\naddelix25@gmail.com",
+    "address": "12255 SW Alta Ct.\nWilsonville, OR 97070",
+    "phone": "503-302-5191",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Addelix LLC",
+    "primaryContact": "Anthony Dix, 71896\naddelix25@gmail.com",
+    "address": "12255 SW Alta Ct.\nWilsonville, OR 97070",
+    "phone": "503-302-5191",
+    "county": "Clackamas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adidas America, Inc",
+    "primaryContact": "Timothy F. Glacken, 12453",
+    "address": "5055 N Greeley Ave\nPortland, OR 97217-3524",
+    "phone": "971-234-2300",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adidas America, Inc",
+    "primaryContact": "Timothy F. Glacken, 12453",
+    "address": "5055 N Greeley Ave\nPortland, OR 97217-3524",
+    "phone": "971-234-2300",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adidas America, Inc",
+    "primaryContact": "Timothy F. Glacken, 12453",
+    "address": "5055 N Greeley Ave\nPortland, OR 97217-3524",
+    "phone": "971-234-2300",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adidas America, Inc",
+    "primaryContact": "Timothy F. Glacken, 12453",
+    "address": "5055 N Greeley Ave\nPortland, OR 97217-3524",
+    "phone": "971-234-2300",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adidas America, Inc",
+    "primaryContact": "Timothy F. Glacken, 12453",
+    "address": "5055 N Greeley Ave\nPortland, OR 97217-3524",
+    "phone": "971-234-2300",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adidas America, Inc",
+    "primaryContact": "Timothy F. Glacken, 12453",
+    "address": "5055 N Greeley Ave\nPortland, OR 97217-3524",
+    "phone": "971-234-2300",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Florida",
+    "primaryContact": "Carmen Otero, 24272\ncotero@adt.com",
+    "address": "10550 Deerwood Park Blvd #400\nJacksonville, FL 32256-0534",
+    "phone": "904-646-5346",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Florida",
+    "primaryContact": "Carmen Otero, 24272\ncotero@adt.com",
+    "address": "10550 Deerwood Park Blvd #400\nJacksonville, FL 32256-0534",
+    "phone": "904-646-5346",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Florida",
+    "primaryContact": "Carmen Otero, 24272\ncotero@adt.com",
+    "address": "10550 Deerwood Park Blvd #400\nJacksonville, FL 32256-0534",
+    "phone": "904-646-5346",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Florida",
+    "primaryContact": "Carmen Otero, 24272\ncotero@adt.com",
+    "address": "10550 Deerwood Park Blvd #400\nJacksonville, FL 32256-0534",
+    "phone": "904-646-5346",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Florida",
+    "primaryContact": "Carmen Otero, 24272\ncotero@adt.com",
+    "address": "10550 Deerwood Park Blvd #400\nJacksonville, FL 32256-0534",
+    "phone": "904-646-5346",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Florida",
+    "primaryContact": "Carmen Otero, 24272\ncotero@adt.com",
+    "address": "10550 Deerwood Park Blvd #400\nJacksonville, FL 32256-0534",
+    "phone": "904-646-5346",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Kansas dba Protection One",
+    "primaryContact": "Shari D. Wilson, 20213\nsharidwilson@adt.com",
+    "address": "800 East Waterman\nWichita, KS 67202",
+    "phone": "800-842-4449",
+    "county": "Kansas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Kansas dba Protection One",
+    "primaryContact": "Shari D. Wilson, 20213\nsharidwilson@adt.com",
+    "address": "800 East Waterman\nWichita, KS 67202",
+    "phone": "800-842-4449",
+    "county": "Kansas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Kansas dba Protection One",
+    "primaryContact": "Shari D. Wilson, 20213\nsharidwilson@adt.com",
+    "address": "800 East Waterman\nWichita, KS 67202",
+    "phone": "800-842-4449",
+    "county": "Kansas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Kansas dba Protection One",
+    "primaryContact": "Shari D. Wilson, 20213\nsharidwilson@adt.com",
+    "address": "800 East Waterman\nWichita, KS 67202",
+    "phone": "800-842-4449",
+    "county": "Kansas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Kansas dba Protection One",
+    "primaryContact": "Shari D. Wilson, 20213\nsharidwilson@adt.com",
+    "address": "800 East Waterman\nWichita, KS 67202",
+    "phone": "800-842-4449",
+    "county": "Kansas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Kansas dba Protection One",
+    "primaryContact": "Shari D. Wilson, 20213\nsharidwilson@adt.com",
+    "address": "800 East Waterman\nWichita, KS 67202",
+    "phone": "800-842-4449",
+    "county": "Kansas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/New York",
+    "primaryContact": "Mel S. Levinson, 18197\nmslevinson@adt.com",
+    "address": "285 Thruway Park Dr\nWest Henrietta, NY 14586",
+    "phone": "585-321-2185",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/New York",
+    "primaryContact": "Mel S. Levinson, 18197\nmslevinson@adt.com",
+    "address": "285 Thruway Park Dr\nWest Henrietta, NY 14586",
+    "phone": "585-321-2185",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/New York",
+    "primaryContact": "Mel S. Levinson, 18197\nmslevinson@adt.com",
+    "address": "285 Thruway Park Dr\nWest Henrietta, NY 14586",
+    "phone": "585-321-2185",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/New York",
+    "primaryContact": "Mel S. Levinson, 18197\nmslevinson@adt.com",
+    "address": "285 Thruway Park Dr\nWest Henrietta, NY 14586",
+    "phone": "585-321-2185",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/New York",
+    "primaryContact": "Mel S. Levinson, 18197\nmslevinson@adt.com",
+    "address": "285 Thruway Park Dr\nWest Henrietta, NY 14586",
+    "phone": "585-321-2185",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/New York",
+    "primaryContact": "Mel S. Levinson, 18197\nmslevinson@adt.com",
+    "address": "285 Thruway Park Dr\nWest Henrietta, NY 14586",
+    "phone": "585-321-2185",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Tennessee",
+    "primaryContact": "Johnny Turner, 40138\njwturner@adt.com",
+    "address": "10620 Kemp Fain Lane\nKnoxville, TN 37932",
+    "phone": "865-226-4120",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Tennessee",
+    "primaryContact": "Johnny Turner, 40138\njwturner@adt.com",
+    "address": "10620 Kemp Fain Lane\nKnoxville, TN 37932",
+    "phone": "865-226-4120",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Tennessee",
+    "primaryContact": "Johnny Turner, 40138\njwturner@adt.com",
+    "address": "10620 Kemp Fain Lane\nKnoxville, TN 37932",
+    "phone": "865-226-4120",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Tennessee",
+    "primaryContact": "Johnny Turner, 40138\njwturner@adt.com",
+    "address": "10620 Kemp Fain Lane\nKnoxville, TN 37932",
+    "phone": "865-226-4120",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Tennessee",
+    "primaryContact": "Johnny Turner, 40138\njwturner@adt.com",
+    "address": "10620 Kemp Fain Lane\nKnoxville, TN 37932",
+    "phone": "865-226-4120",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Tennessee",
+    "primaryContact": "Johnny Turner, 40138\njwturner@adt.com",
+    "address": "10620 Kemp Fain Lane\nKnoxville, TN 37932",
+    "phone": "865-226-4120",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Texas dba Protection One",
+    "primaryContact": "Andrew Wood, 74307\nandrewwood@adt.com",
+    "address": "8880 Esters Blvd.\nIrving, TX 75063",
+    "phone": "214-862-8205",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Texas dba Protection One",
+    "primaryContact": "Andrew Wood, 74307\nandrewwood@adt.com",
+    "address": "8880 Esters Blvd.\nIrving, TX 75063",
+    "phone": "214-862-8205",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Texas dba Protection One",
+    "primaryContact": "Andrew Wood, 74307\nandrewwood@adt.com",
+    "address": "8880 Esters Blvd.\nIrving, TX 75063",
+    "phone": "214-862-8205",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Texas dba Protection One",
+    "primaryContact": "Andrew Wood, 74307\nandrewwood@adt.com",
+    "address": "8880 Esters Blvd.\nIrving, TX 75063",
+    "phone": "214-862-8205",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Texas dba Protection One",
+    "primaryContact": "Andrew Wood, 74307\nandrewwood@adt.com",
+    "address": "8880 Esters Blvd.\nIrving, TX 75063",
+    "phone": "214-862-8205",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT LLC/Texas dba Protection One",
+    "primaryContact": "Andrew Wood, 74307\nandrewwood@adt.com",
+    "address": "8880 Esters Blvd.\nIrving, TX 75063",
+    "phone": "214-862-8205",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Bradenton FL",
+    "primaryContact": "Austin Croker",
+    "address": "9000 Town Center Parkway\nBradenton, FL 34202",
+    "phone": "941-907-3662",
+    "county": "Florida",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Bradenton FL",
+    "primaryContact": "Austin Croker",
+    "address": "9000 Town Center Parkway\nBradenton, FL 34202",
+    "phone": "941-907-3662",
+    "county": "Florida",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Bradenton FL",
+    "primaryContact": "Austin Croker",
+    "address": "9000 Town Center Parkway\nBradenton, FL 34202",
+    "phone": "941-907-3662",
+    "county": "Florida",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Bradenton FL",
+    "primaryContact": "Austin Croker",
+    "address": "9000 Town Center Parkway\nBradenton, FL 34202",
+    "phone": "941-907-3662",
+    "county": "Florida",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Bradenton FL",
+    "primaryContact": "Austin Croker",
+    "address": "9000 Town Center Parkway\nBradenton, FL 34202",
+    "phone": "941-907-3662",
+    "county": "Florida",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Bradenton FL",
+    "primaryContact": "Austin Croker",
+    "address": "9000 Town Center Parkway\nBradenton, FL 34202",
+    "phone": "941-907-3662",
+    "county": "Florida",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Colorado",
+    "primaryContact": "James Mooney, 06878\nalutzow@adt.com",
+    "address": "14200 E. Exposition Ave\nAurora, CO 80012",
+    "phone": "303-283-5296",
+    "county": "Colorado",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Colorado",
+    "primaryContact": "James Mooney, 06878\nalutzow@adt.com",
+    "address": "14200 E. Exposition Ave\nAurora, CO 80012",
+    "phone": "303-283-5296",
+    "county": "Colorado",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Colorado",
+    "primaryContact": "James Mooney, 06878\nalutzow@adt.com",
+    "address": "14200 E. Exposition Ave\nAurora, CO 80012",
+    "phone": "303-283-5296",
+    "county": "Colorado",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Colorado",
+    "primaryContact": "James Mooney, 06878\nalutzow@adt.com",
+    "address": "14200 E. Exposition Ave\nAurora, CO 80012",
+    "phone": "303-283-5296",
+    "county": "Colorado",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Colorado",
+    "primaryContact": "James Mooney, 06878\nalutzow@adt.com",
+    "address": "14200 E. Exposition Ave\nAurora, CO 80012",
+    "phone": "303-283-5296",
+    "county": "Colorado",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Colorado",
+    "primaryContact": "James Mooney, 06878\nalutzow@adt.com",
+    "address": "14200 E. Exposition Ave\nAurora, CO 80012",
+    "phone": "303-283-5296",
+    "county": "Colorado",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Missouri",
+    "primaryContact": "Jennisen DeVaul, 48493\njdevaul@adt.com",
+    "address": "7805 NW 97th Terrace\nKansas City, MO 64153",
+    "phone": "816-801-4536",
+    "county": "Missouri",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Missouri",
+    "primaryContact": "Jennisen DeVaul, 48493\njdevaul@adt.com",
+    "address": "7805 NW 97th Terrace\nKansas City, MO 64153",
+    "phone": "816-801-4536",
+    "county": "Missouri",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Missouri",
+    "primaryContact": "Jennisen DeVaul, 48493\njdevaul@adt.com",
+    "address": "7805 NW 97th Terrace\nKansas City, MO 64153",
+    "phone": "816-801-4536",
+    "county": "Missouri",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Missouri",
+    "primaryContact": "Jennisen DeVaul, 48493\njdevaul@adt.com",
+    "address": "7805 NW 97th Terrace\nKansas City, MO 64153",
+    "phone": "816-801-4536",
+    "county": "Missouri",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Missouri",
+    "primaryContact": "Jennisen DeVaul, 48493\njdevaul@adt.com",
+    "address": "7805 NW 97th Terrace\nKansas City, MO 64153",
+    "phone": "816-801-4536",
+    "county": "Missouri",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Missouri",
+    "primaryContact": "Jennisen DeVaul, 48493\njdevaul@adt.com",
+    "address": "7805 NW 97th Terrace\nKansas City, MO 64153",
+    "phone": "816-801-4536",
+    "county": "Missouri",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Nebraska",
+    "primaryContact": "",
+    "address": "",
+    "phone": "402-596-8000",
+    "county": "Nebraska",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Nebraska",
+    "primaryContact": "",
+    "address": "",
+    "phone": "402-596-8000",
+    "county": "Nebraska",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Nebraska",
+    "primaryContact": "",
+    "address": "",
+    "phone": "402-596-8000",
+    "county": "Nebraska",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Nebraska",
+    "primaryContact": "",
+    "address": "",
+    "phone": "402-596-8000",
+    "county": "Nebraska",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Nebraska",
+    "primaryContact": "",
+    "address": "",
+    "phone": "402-596-8000",
+    "county": "Nebraska",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT Security Systems, Inc/Nebraska",
+    "primaryContact": "",
+    "address": "",
+    "phone": "402-596-8000",
+    "county": "Nebraska",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ADT, LLC / John Carpenter Fwy",
+    "primaryContact": "Tammy Donald, 51820\ntdonald@adt.com",
+    "address": "4221 W John Carpenter Fwy\nIrving, TX 75063-2924",
+    "phone": "214-277-7072",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT, LLC / John Carpenter Fwy",
+    "primaryContact": "Tammy Donald, 51820\ntdonald@adt.com",
+    "address": "4221 W John Carpenter Fwy\nIrving, TX 75063-2924",
+    "phone": "214-277-7072",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT, LLC / John Carpenter Fwy",
+    "primaryContact": "Tammy Donald, 51820\ntdonald@adt.com",
+    "address": "4221 W John Carpenter Fwy\nIrving, TX 75063-2924",
+    "phone": "214-277-7072",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT, LLC / John Carpenter Fwy",
+    "primaryContact": "Tammy Donald, 51820\ntdonald@adt.com",
+    "address": "4221 W John Carpenter Fwy\nIrving, TX 75063-2924",
+    "phone": "214-277-7072",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT, LLC / John Carpenter Fwy",
+    "primaryContact": "Tammy Donald, 51820\ntdonald@adt.com",
+    "address": "4221 W John Carpenter Fwy\nIrving, TX 75063-2924",
+    "phone": "214-277-7072",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ADT, LLC / John Carpenter Fwy",
+    "primaryContact": "Tammy Donald, 51820\ntdonald@adt.com",
+    "address": "4221 W John Carpenter Fwy\nIrving, TX 75063-2924",
+    "phone": "214-277-7072",
+    "county": "Texas",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advance Resorts of America/Paradise Cove",
+    "primaryContact": "Carl Burklund\ncalburk@hotmail.com",
+    "address": "32455 Highway 101 N\nRockaway Beach, OR 97136-9637",
+    "phone": "503-368-6581",
+    "county": "Tillamook",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advance Resorts of America/Paradise Cove",
+    "primaryContact": "Carl Burklund\ncalburk@hotmail.com",
+    "address": "32455 Highway 101 N\nRockaway Beach, OR 97136-9637",
+    "phone": "503-368-6581",
+    "county": "Tillamook",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advance Resorts of America/Paradise Cove",
+    "primaryContact": "Carl Burklund\ncalburk@hotmail.com",
+    "address": "32455 Highway 101 N\nRockaway Beach, OR 97136-9637",
+    "phone": "503-368-6581",
+    "county": "Tillamook",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advance Resorts of America/Paradise Cove",
+    "primaryContact": "Carl Burklund\ncalburk@hotmail.com",
+    "address": "32455 Highway 101 N\nRockaway Beach, OR 97136-9637",
+    "phone": "503-368-6581",
+    "county": "Tillamook",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advance Resorts of America/Paradise Cove",
+    "primaryContact": "Carl Burklund\ncalburk@hotmail.com",
+    "address": "32455 Highway 101 N\nRockaway Beach, OR 97136-9637",
+    "phone": "503-368-6581",
+    "county": "Tillamook",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advance Resorts of America/Paradise Cove",
+    "primaryContact": "Carl Burklund\ncalburk@hotmail.com",
+    "address": "32455 Highway 101 N\nRockaway Beach, OR 97136-9637",
+    "phone": "503-368-6581",
+    "county": "Tillamook",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advanced Federal Contracting",
+    "primaryContact": "Lyle A. Simshaw, 58768",
+    "address": "19190 SW 90th Ave #1201\nTualatin, OR 97062",
+    "phone": "503-4278788",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advanced Federal Contracting",
+    "primaryContact": "Lyle A. Simshaw, 58768",
+    "address": "19190 SW 90th Ave #1201\nTualatin, OR 97062",
+    "phone": "503-4278788",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advanced Federal Contracting",
+    "primaryContact": "Lyle A. Simshaw, 58768",
+    "address": "19190 SW 90th Ave #1201\nTualatin, OR 97062",
+    "phone": "503-4278788",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advanced Federal Contracting",
+    "primaryContact": "Lyle A. Simshaw, 58768",
+    "address": "19190 SW 90th Ave #1201\nTualatin, OR 97062",
+    "phone": "503-4278788",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advanced Federal Contracting",
+    "primaryContact": "Lyle A. Simshaw, 58768",
+    "address": "19190 SW 90th Ave #1201\nTualatin, OR 97062",
+    "phone": "503-4278788",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advanced Federal Contracting",
+    "primaryContact": "Lyle A. Simshaw, 58768",
+    "address": "19190 SW 90th Ave #1201\nTualatin, OR 97062",
+    "phone": "503-4278788",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Advanced Security Services",
+    "primaryContact": "Willam Wolfe, 05871\nmusclecarbill@yahoo.com",
+    "address": "4444 Omaha Ave\nMedford, OR 97501",
+    "phone": "541-890-2163",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Services",
+    "primaryContact": "Willam Wolfe, 05871\nmusclecarbill@yahoo.com",
+    "address": "4444 Omaha Ave\nMedford, OR 97501",
+    "phone": "541-890-2163",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Services",
+    "primaryContact": "Willam Wolfe, 05871\nmusclecarbill@yahoo.com",
+    "address": "4444 Omaha Ave\nMedford, OR 97501",
+    "phone": "541-890-2163",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Services",
+    "primaryContact": "Willam Wolfe, 05871\nmusclecarbill@yahoo.com",
+    "address": "4444 Omaha Ave\nMedford, OR 97501",
+    "phone": "541-890-2163",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Services",
+    "primaryContact": "Willam Wolfe, 05871\nmusclecarbill@yahoo.com",
+    "address": "4444 Omaha Ave\nMedford, OR 97501",
+    "phone": "541-890-2163",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Services",
+    "primaryContact": "Willam Wolfe, 05871\nmusclecarbill@yahoo.com",
+    "address": "4444 Omaha Ave\nMedford, OR 97501",
+    "phone": "541-890-2163",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Systems",
+    "primaryContact": "Ian Schatz, 59664\nian@advancedsecurity.us",
+    "address": "1336 Fourth Street\nEureka, CA 95501",
+    "phone": "707-443-4366 x233",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Systems",
+    "primaryContact": "Ian Schatz, 59664\nian@advancedsecurity.us",
+    "address": "1336 Fourth Street\nEureka, CA 95501",
+    "phone": "707-443-4366 x233",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Systems",
+    "primaryContact": "Ian Schatz, 59664\nian@advancedsecurity.us",
+    "address": "1336 Fourth Street\nEureka, CA 95501",
+    "phone": "707-443-4366 x233",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Systems",
+    "primaryContact": "Ian Schatz, 59664\nian@advancedsecurity.us",
+    "address": "1336 Fourth Street\nEureka, CA 95501",
+    "phone": "707-443-4366 x233",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Systems",
+    "primaryContact": "Ian Schatz, 59664\nian@advancedsecurity.us",
+    "address": "1336 Fourth Street\nEureka, CA 95501",
+    "phone": "707-443-4366 x233",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security Systems",
+    "primaryContact": "Ian Schatz, 59664\nian@advancedsecurity.us",
+    "address": "1336 Fourth Street\nEureka, CA 95501",
+    "phone": "707-443-4366 x233",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Eugene",
+    "primaryContact": "Carl L. Blackwell, 51311\ncblackwellasi@yahoo.com",
+    "address": "749 Madison St.\nEugene, OR 97402",
+    "phone": "541-463-7726",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Eugene",
+    "primaryContact": "Carl L. Blackwell, 51311\ncblackwellasi@yahoo.com",
+    "address": "749 Madison St.\nEugene, OR 97402",
+    "phone": "541-463-7726",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Eugene",
+    "primaryContact": "Carl L. Blackwell, 51311\ncblackwellasi@yahoo.com",
+    "address": "749 Madison St.\nEugene, OR 97402",
+    "phone": "541-463-7726",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Eugene",
+    "primaryContact": "Carl L. Blackwell, 51311\ncblackwellasi@yahoo.com",
+    "address": "749 Madison St.\nEugene, OR 97402",
+    "phone": "541-463-7726",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Eugene",
+    "primaryContact": "Carl L. Blackwell, 51311\ncblackwellasi@yahoo.com",
+    "address": "749 Madison St.\nEugene, OR 97402",
+    "phone": "541-463-7726",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Eugene",
+    "primaryContact": "Carl L. Blackwell, 51311\ncblackwellasi@yahoo.com",
+    "address": "749 Madison St.\nEugene, OR 97402",
+    "phone": "541-463-7726",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Portland",
+    "primaryContact": "Ronald Koch, 11019\npdxmanagerasi@gmail.com",
+    "address": "716 SE 11th Ave\nPortland, OR 97214",
+    "phone": "503-222-5381",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Portland",
+    "primaryContact": "Ronald Koch, 11019\npdxmanagerasi@gmail.com",
+    "address": "716 SE 11th Ave\nPortland, OR 97214",
+    "phone": "503-222-5381",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Portland",
+    "primaryContact": "Ronald Koch, 11019\npdxmanagerasi@gmail.com",
+    "address": "716 SE 11th Ave\nPortland, OR 97214",
+    "phone": "503-222-5381",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Portland",
+    "primaryContact": "Ronald Koch, 11019\npdxmanagerasi@gmail.com",
+    "address": "716 SE 11th Ave\nPortland, OR 97214",
+    "phone": "503-222-5381",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Portland",
+    "primaryContact": "Ronald Koch, 11019\npdxmanagerasi@gmail.com",
+    "address": "716 SE 11th Ave\nPortland, OR 97214",
+    "phone": "503-222-5381",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Portland",
+    "primaryContact": "Ronald Koch, 11019\npdxmanagerasi@gmail.com",
+    "address": "716 SE 11th Ave\nPortland, OR 97214",
+    "phone": "503-222-5381",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Salem",
+    "primaryContact": "Marlin R. Otto, 19192\nmottoasi@aol.com",
+    "address": "1255 Cross St. SE\nSalem, OR 97302",
+    "phone": "503-375-0533",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Salem",
+    "primaryContact": "Marlin R. Otto, 19192\nmottoasi@aol.com",
+    "address": "1255 Cross St. SE\nSalem, OR 97302",
+    "phone": "503-375-0533",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Salem",
+    "primaryContact": "Marlin R. Otto, 19192\nmottoasi@aol.com",
+    "address": "1255 Cross St. SE\nSalem, OR 97302",
+    "phone": "503-375-0533",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Salem",
+    "primaryContact": "Marlin R. Otto, 19192\nmottoasi@aol.com",
+    "address": "1255 Cross St. SE\nSalem, OR 97302",
+    "phone": "503-375-0533",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Salem",
+    "primaryContact": "Marlin R. Otto, 19192\nmottoasi@aol.com",
+    "address": "1255 Cross St. SE\nSalem, OR 97302",
+    "phone": "503-375-0533",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advanced Security, Inc./Salem",
+    "primaryContact": "Marlin R. Otto, 19192\nmottoasi@aol.com",
+    "address": "1255 Cross St. SE\nSalem, OR 97302",
+    "phone": "503-375-0533",
+    "county": "Marion",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advantage Protection LLC",
+    "primaryContact": "Jenny Keller",
+    "address": "8510 E Mill Plain Blvd Ste C\nVancouver, WA 98664",
+    "phone": "360-696-2911",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advantage Protection LLC",
+    "primaryContact": "Jenny Keller",
+    "address": "8510 E Mill Plain Blvd Ste C\nVancouver, WA 98664",
+    "phone": "360-696-2911",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advantage Protection LLC",
+    "primaryContact": "Jenny Keller",
+    "address": "8510 E Mill Plain Blvd Ste C\nVancouver, WA 98664",
+    "phone": "360-696-2911",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advantage Protection LLC",
+    "primaryContact": "Jenny Keller",
+    "address": "8510 E Mill Plain Blvd Ste C\nVancouver, WA 98664",
+    "phone": "360-696-2911",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advantage Protection LLC",
+    "primaryContact": "Jenny Keller",
+    "address": "8510 E Mill Plain Blvd Ste C\nVancouver, WA 98664",
+    "phone": "360-696-2911",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Advantage Protection LLC",
+    "primaryContact": "Jenny Keller",
+    "address": "8510 E Mill Plain Blvd Ste C\nVancouver, WA 98664",
+    "phone": "360-696-2911",
+    "county": "Clark County Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adventist Medical Center",
+    "primaryContact": "Dwayne S. Fund, 01014",
+    "address": "10123 SE Market Street\nPortland, OR 97216",
+    "phone": "503-261-6065",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adventist Medical Center",
+    "primaryContact": "Dwayne S. Fund, 01014",
+    "address": "10123 SE Market Street\nPortland, OR 97216",
+    "phone": "503-261-6065",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adventist Medical Center",
+    "primaryContact": "Dwayne S. Fund, 01014",
+    "address": "10123 SE Market Street\nPortland, OR 97216",
+    "phone": "503-261-6065",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adventist Medical Center",
+    "primaryContact": "Dwayne S. Fund, 01014",
+    "address": "10123 SE Market Street\nPortland, OR 97216",
+    "phone": "503-261-6065",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adventist Medical Center",
+    "primaryContact": "Dwayne S. Fund, 01014",
+    "address": "10123 SE Market Street\nPortland, OR 97216",
+    "phone": "503-261-6065",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Adventist Medical Center",
+    "primaryContact": "Dwayne S. Fund, 01014",
+    "address": "10123 SE Market Street\nPortland, OR 97216",
+    "phone": "503-261-6065",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AEG/Rose Quarter",
+    "primaryContact": "",
+    "address": "1 Center Court Suite 200\nPortland, OR 97227",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "AEG/Rose Quarter",
+    "primaryContact": "",
+    "address": "1 Center Court Suite 200\nPortland, OR 97227",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "AEG/Rose Quarter",
+    "primaryContact": "",
+    "address": "1 Center Court Suite 200\nPortland, OR 97227",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "AEG/Rose Quarter",
+    "primaryContact": "",
+    "address": "1 Center Court Suite 200\nPortland, OR 97227",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "AEG/Rose Quarter",
+    "primaryContact": "",
+    "address": "1 Center Court Suite 200\nPortland, OR 97227",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "AEG/Rose Quarter",
+    "primaryContact": "",
+    "address": "1 Center Court Suite 200\nPortland, OR 97227",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Aegis Security",
+    "primaryContact": "Jennifer A. Causer, 83984\nhq@aegissecurity503.com",
+    "address": "PO BOX 943\nSeaside, OR 97138",
+    "phone": "503-739-7041",
+    "county": "Clatsop",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aegis Security",
+    "primaryContact": "Jennifer A. Causer, 83984\nhq@aegissecurity503.com",
+    "address": "PO BOX 943\nSeaside, OR 97138",
+    "phone": "503-739-7041",
+    "county": "Clatsop",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aegis Security",
+    "primaryContact": "Jennifer A. Causer, 83984\nhq@aegissecurity503.com",
+    "address": "PO BOX 943\nSeaside, OR 97138",
+    "phone": "503-739-7041",
+    "county": "Clatsop",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aegis Security",
+    "primaryContact": "Jennifer A. Causer, 83984\nhq@aegissecurity503.com",
+    "address": "PO BOX 943\nSeaside, OR 97138",
+    "phone": "503-739-7041",
+    "county": "Clatsop",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aegis Security",
+    "primaryContact": "Jennifer A. Causer, 83984\nhq@aegissecurity503.com",
+    "address": "PO BOX 943\nSeaside, OR 97138",
+    "phone": "503-739-7041",
+    "county": "Clatsop",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aegis Security",
+    "primaryContact": "Jennifer A. Causer, 83984\nhq@aegissecurity503.com",
+    "address": "PO BOX 943\nSeaside, OR 97138",
+    "phone": "503-739-7041",
+    "county": "Clatsop",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aerodyne, LCC",
+    "primaryContact": "",
+    "address": "PO Box 1257\nVeneta, OR 97487",
+    "phone": "",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Aerodyne, LCC",
+    "primaryContact": "",
+    "address": "PO Box 1257\nVeneta, OR 97487",
+    "phone": "",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Aerodyne, LCC",
+    "primaryContact": "",
+    "address": "PO Box 1257\nVeneta, OR 97487",
+    "phone": "",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Aerodyne, LCC",
+    "primaryContact": "",
+    "address": "PO Box 1257\nVeneta, OR 97487",
+    "phone": "",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Aerodyne, LCC",
+    "primaryContact": "",
+    "address": "PO Box 1257\nVeneta, OR 97487",
+    "phone": "",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Aerodyne, LCC",
+    "primaryContact": "",
+    "address": "PO Box 1257\nVeneta, OR 97487",
+    "phone": "",
+    "county": "Lane",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Agency Security Group, LLC",
+    "primaryContact": "",
+    "address": "1819 Central Avenue, S. #140\nKent, WA 98032",
+    "phone": "253-236-2157",
+    "county": "Washington State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Agency Security Group, LLC",
+    "primaryContact": "",
+    "address": "1819 Central Avenue, S. #140\nKent, WA 98032",
+    "phone": "253-236-2157",
+    "county": "Washington State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Agency Security Group, LLC",
+    "primaryContact": "",
+    "address": "1819 Central Avenue, S. #140\nKent, WA 98032",
+    "phone": "253-236-2157",
+    "county": "Washington State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Agency Security Group, LLC",
+    "primaryContact": "",
+    "address": "1819 Central Avenue, S. #140\nKent, WA 98032",
+    "phone": "253-236-2157",
+    "county": "Washington State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Agency Security Group, LLC",
+    "primaryContact": "",
+    "address": "1819 Central Avenue, S. #140\nKent, WA 98032",
+    "phone": "253-236-2157",
+    "county": "Washington State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Agency Security Group, LLC",
+    "primaryContact": "",
+    "address": "1819 Central Avenue, S. #140\nKent, WA 98032",
+    "phone": "253-236-2157",
+    "county": "Washington State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Ahtna Facility Services In",
+    "primaryContact": "Fin M. Johnson, 52583\nfjohnson@afsica.com",
+    "address": "240 E. Tudor Road, Ste 210\nAnchorage, AK 99503",
+    "phone": "916-375-0199",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ahtna Facility Services In",
+    "primaryContact": "Fin M. Johnson, 52583\nfjohnson@afsica.com",
+    "address": "240 E. Tudor Road, Ste 210\nAnchorage, AK 99503",
+    "phone": "916-375-0199",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ahtna Facility Services In",
+    "primaryContact": "Fin M. Johnson, 52583\nfjohnson@afsica.com",
+    "address": "240 E. Tudor Road, Ste 210\nAnchorage, AK 99503",
+    "phone": "916-375-0199",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ahtna Facility Services In",
+    "primaryContact": "Fin M. Johnson, 52583\nfjohnson@afsica.com",
+    "address": "240 E. Tudor Road, Ste 210\nAnchorage, AK 99503",
+    "phone": "916-375-0199",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ahtna Facility Services In",
+    "primaryContact": "Fin M. Johnson, 52583\nfjohnson@afsica.com",
+    "address": "240 E. Tudor Road, Ste 210\nAnchorage, AK 99503",
+    "phone": "916-375-0199",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Ahtna Facility Services In",
+    "primaryContact": "Fin M. Johnson, 52583\nfjohnson@afsica.com",
+    "address": "240 E. Tudor Road, Ste 210\nAnchorage, AK 99503",
+    "phone": "916-375-0199",
+    "county": "California",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "AJ Melino & Associates, Inc.",
+    "primaryContact": "Scott A. Shields, 78404\nscottshields41@yahoo.com",
+    "address": "505 West 30th Street\nNew York, NY 10018",
+    "phone": "212-671-1968",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AJ Melino & Associates, Inc.",
+    "primaryContact": "Scott A. Shields, 78404\nscottshields41@yahoo.com",
+    "address": "505 West 30th Street\nNew York, NY 10018",
+    "phone": "212-671-1968",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AJ Melino & Associates, Inc.",
+    "primaryContact": "Scott A. Shields, 78404\nscottshields41@yahoo.com",
+    "address": "505 West 30th Street\nNew York, NY 10018",
+    "phone": "212-671-1968",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AJ Melino & Associates, Inc.",
+    "primaryContact": "Scott A. Shields, 78404\nscottshields41@yahoo.com",
+    "address": "505 West 30th Street\nNew York, NY 10018",
+    "phone": "212-671-1968",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AJ Melino & Associates, Inc.",
+    "primaryContact": "Scott A. Shields, 78404\nscottshields41@yahoo.com",
+    "address": "505 West 30th Street\nNew York, NY 10018",
+    "phone": "212-671-1968",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "AJ Melino & Associates, Inc.",
+    "primaryContact": "Scott A. Shields, 78404\nscottshields41@yahoo.com",
+    "address": "505 West 30th Street\nNew York, NY 10018",
+    "phone": "212-671-1968",
+    "county": "New York",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Akal Security, Inc.",
+    "primaryContact": "Mehtab S. Khalsa, 84748\nmehtabs@akalglobal.com",
+    "address": "PO Box 1197\nSanta Cruz, NM 87567",
+    "phone": "505-692-6679",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Akal Security, Inc.",
+    "primaryContact": "Mehtab S. Khalsa, 84748\nmehtabs@akalglobal.com",
+    "address": "PO Box 1197\nSanta Cruz, NM 87567",
+    "phone": "505-692-6679",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Akal Security, Inc.",
+    "primaryContact": "Mehtab S. Khalsa, 84748\nmehtabs@akalglobal.com",
+    "address": "PO Box 1197\nSanta Cruz, NM 87567",
+    "phone": "505-692-6679",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Akal Security, Inc.",
+    "primaryContact": "Mehtab S. Khalsa, 84748\nmehtabs@akalglobal.com",
+    "address": "PO Box 1197\nSanta Cruz, NM 87567",
+    "phone": "505-692-6679",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Akal Security, Inc.",
+    "primaryContact": "Mehtab S. Khalsa, 84748\nmehtabs@akalglobal.com",
+    "address": "PO Box 1197\nSanta Cruz, NM 87567",
+    "phone": "505-692-6679",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Akal Security, Inc.",
+    "primaryContact": "Mehtab S. Khalsa, 84748\nmehtabs@akalglobal.com",
+    "address": "PO Box 1197\nSanta Cruz, NM 87567",
+    "phone": "505-692-6679",
+    "county": "Out of State",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Al Narah Hookah Lounge",
+    "primaryContact": "",
+    "address": "9460 NW Ember Lane\nPortland, OR 97229",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Al Narah Hookah Lounge",
+    "primaryContact": "",
+    "address": "9460 NW Ember Lane\nPortland, OR 97229",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Al Narah Hookah Lounge",
+    "primaryContact": "",
+    "address": "9460 NW Ember Lane\nPortland, OR 97229",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Al Narah Hookah Lounge",
+    "primaryContact": "",
+    "address": "9460 NW Ember Lane\nPortland, OR 97229",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Al Narah Hookah Lounge",
+    "primaryContact": "",
+    "address": "9460 NW Ember Lane\nPortland, OR 97229",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Al Narah Hookah Lounge",
+    "primaryContact": "",
+    "address": "9460 NW Ember Lane\nPortland, OR 97229",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aladdin Theater",
+    "primaryContact": "Jeffrey B. Baitx, 90073\njeff@truewestpresents.com",
+    "address": "3116 SE 11th\nPortland, OR 97202",
+    "phone": "503-936-4662",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aladdin Theater",
+    "primaryContact": "Jeffrey B. Baitx, 90073\njeff@truewestpresents.com",
+    "address": "3116 SE 11th\nPortland, OR 97202",
+    "phone": "503-936-4662",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aladdin Theater",
+    "primaryContact": "Jeffrey B. Baitx, 90073\njeff@truewestpresents.com",
+    "address": "3116 SE 11th\nPortland, OR 97202",
+    "phone": "503-936-4662",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aladdin Theater",
+    "primaryContact": "Jeffrey B. Baitx, 90073\njeff@truewestpresents.com",
+    "address": "3116 SE 11th\nPortland, OR 97202",
+    "phone": "503-936-4662",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aladdin Theater",
+    "primaryContact": "Jeffrey B. Baitx, 90073\njeff@truewestpresents.com",
+    "address": "3116 SE 11th\nPortland, OR 97202",
+    "phone": "503-936-4662",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Aladdin Theater",
+    "primaryContact": "Jeffrey B. Baitx, 90073\njeff@truewestpresents.com",
+    "address": "3116 SE 11th\nPortland, OR 97202",
+    "phone": "503-936-4662",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Central Station, Inc.",
+    "primaryContact": "James R. Essam, 06222\ngenmgr@alceste.com",
+    "address": "14480 SW Jenkins Rd\nBeaverton, OR 97006",
+    "phone": "503-641-6761 x1101",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Central Station, Inc.",
+    "primaryContact": "James R. Essam, 06222\ngenmgr@alceste.com",
+    "address": "14480 SW Jenkins Rd\nBeaverton, OR 97006",
+    "phone": "503-641-6761 x1101",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Central Station, Inc.",
+    "primaryContact": "James R. Essam, 06222\ngenmgr@alceste.com",
+    "address": "14480 SW Jenkins Rd\nBeaverton, OR 97006",
+    "phone": "503-641-6761 x1101",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Central Station, Inc.",
+    "primaryContact": "James R. Essam, 06222\ngenmgr@alceste.com",
+    "address": "14480 SW Jenkins Rd\nBeaverton, OR 97006",
+    "phone": "503-641-6761 x1101",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Central Station, Inc.",
+    "primaryContact": "James R. Essam, 06222\ngenmgr@alceste.com",
+    "address": "14480 SW Jenkins Rd\nBeaverton, OR 97006",
+    "phone": "503-641-6761 x1101",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Central Station, Inc.",
+    "primaryContact": "James R. Essam, 06222\ngenmgr@alceste.com",
+    "address": "14480 SW Jenkins Rd\nBeaverton, OR 97006",
+    "phone": "503-641-6761 x1101",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Relay Inc",
+    "primaryContact": "Paul Piscatelli, 51173\nlaura@alarmrelay.com",
+    "address": "111 South Marshall Ave\nEl Cajon, CA 92020",
+    "phone": "619-312-1303",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Relay Inc",
+    "primaryContact": "Paul Piscatelli, 51173\nlaura@alarmrelay.com",
+    "address": "111 South Marshall Ave\nEl Cajon, CA 92020",
+    "phone": "619-312-1303",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Relay Inc",
+    "primaryContact": "Paul Piscatelli, 51173\nlaura@alarmrelay.com",
+    "address": "111 South Marshall Ave\nEl Cajon, CA 92020",
+    "phone": "619-312-1303",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Relay Inc",
+    "primaryContact": "Paul Piscatelli, 51173\nlaura@alarmrelay.com",
+    "address": "111 South Marshall Ave\nEl Cajon, CA 92020",
+    "phone": "619-312-1303",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Relay Inc",
+    "primaryContact": "Paul Piscatelli, 51173\nlaura@alarmrelay.com",
+    "address": "111 South Marshall Ave\nEl Cajon, CA 92020",
+    "phone": "619-312-1303",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Relay Inc",
+    "primaryContact": "Paul Piscatelli, 51173\nlaura@alarmrelay.com",
+    "address": "111 South Marshall Ave\nEl Cajon, CA 92020",
+    "phone": "619-312-1303",
+    "county": "California",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Security Group, LLC /ADG Security",
+    "primaryContact": "Cindy Beare, 57714",
+    "address": "12301 Kiln Court, Ste A\nBeltsville, MD 20705",
+    "phone": "866-552-0273",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Security Group, LLC /ADG Security",
+    "primaryContact": "Cindy Beare, 57714",
+    "address": "12301 Kiln Court, Ste A\nBeltsville, MD 20705",
+    "phone": "866-552-0273",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Security Group, LLC /ADG Security",
+    "primaryContact": "Cindy Beare, 57714",
+    "address": "12301 Kiln Court, Ste A\nBeltsville, MD 20705",
+    "phone": "866-552-0273",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Security Group, LLC /ADG Security",
+    "primaryContact": "Cindy Beare, 57714",
+    "address": "12301 Kiln Court, Ste A\nBeltsville, MD 20705",
+    "phone": "866-552-0273",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Security Group, LLC /ADG Security",
+    "primaryContact": "Cindy Beare, 57714",
+    "address": "12301 Kiln Court, Ste A\nBeltsville, MD 20705",
+    "phone": "866-552-0273",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Security Group, LLC /ADG Security",
+    "primaryContact": "Cindy Beare, 57714",
+    "address": "12301 Kiln Court, Ste A\nBeltsville, MD 20705",
+    "phone": "866-552-0273",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Specialist Corporation",
+    "primaryContact": "Robert J. Keefe, 16935",
+    "address": "1301 Sarasota Center Blvd\nSarasota, FL 34240",
+    "phone": "800-318-9486",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Specialist Corporation",
+    "primaryContact": "Robert J. Keefe, 16935",
+    "address": "1301 Sarasota Center Blvd\nSarasota, FL 34240",
+    "phone": "800-318-9486",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Specialist Corporation",
+    "primaryContact": "Robert J. Keefe, 16935",
+    "address": "1301 Sarasota Center Blvd\nSarasota, FL 34240",
+    "phone": "800-318-9486",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Specialist Corporation",
+    "primaryContact": "Robert J. Keefe, 16935",
+    "address": "1301 Sarasota Center Blvd\nSarasota, FL 34240",
+    "phone": "800-318-9486",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Specialist Corporation",
+    "primaryContact": "Robert J. Keefe, 16935",
+    "address": "1301 Sarasota Center Blvd\nSarasota, FL 34240",
+    "phone": "800-318-9486",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Specialist Corporation",
+    "primaryContact": "Robert J. Keefe, 16935",
+    "address": "1301 Sarasota Center Blvd\nSarasota, FL 34240",
+    "phone": "800-318-9486",
+    "county": "Florida",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alarm Tech Central Service, Inc",
+    "primaryContact": "Robert Spetta, 59647\nbob@alarmtechcentral.com",
+    "address": "85-1 Airpark Drive\nRonkonkoma, NY 11779",
+    "phone": "800-729-8234",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Tech Central Service, Inc",
+    "primaryContact": "Robert Spetta, 59647\nbob@alarmtechcentral.com",
+    "address": "85-1 Airpark Drive\nRonkonkoma, NY 11779",
+    "phone": "800-729-8234",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Tech Central Service, Inc",
+    "primaryContact": "Robert Spetta, 59647\nbob@alarmtechcentral.com",
+    "address": "85-1 Airpark Drive\nRonkonkoma, NY 11779",
+    "phone": "800-729-8234",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Tech Central Service, Inc",
+    "primaryContact": "Robert Spetta, 59647\nbob@alarmtechcentral.com",
+    "address": "85-1 Airpark Drive\nRonkonkoma, NY 11779",
+    "phone": "800-729-8234",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Tech Central Service, Inc",
+    "primaryContact": "Robert Spetta, 59647\nbob@alarmtechcentral.com",
+    "address": "85-1 Airpark Drive\nRonkonkoma, NY 11779",
+    "phone": "800-729-8234",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alarm Tech Central Service, Inc",
+    "primaryContact": "Robert Spetta, 59647\nbob@alarmtechcentral.com",
+    "address": "85-1 Airpark Drive\nRonkonkoma, NY 11779",
+    "phone": "800-729-8234",
+    "county": "Out of State",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Albertsons Inc",
+    "primaryContact": "",
+    "address": "16300 SE Evelyn Street\nClackamas, OR 97015",
+    "phone": "503-305-9682",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Albertsons Inc",
+    "primaryContact": "",
+    "address": "16300 SE Evelyn Street\nClackamas, OR 97015",
+    "phone": "503-305-9682",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Albertsons Inc",
+    "primaryContact": "",
+    "address": "16300 SE Evelyn Street\nClackamas, OR 97015",
+    "phone": "503-305-9682",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Albertsons Inc",
+    "primaryContact": "",
+    "address": "16300 SE Evelyn Street\nClackamas, OR 97015",
+    "phone": "503-305-9682",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Albertsons Inc",
+    "primaryContact": "",
+    "address": "16300 SE Evelyn Street\nClackamas, OR 97015",
+    "phone": "503-305-9682",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Albertsons Inc",
+    "primaryContact": "",
+    "address": "16300 SE Evelyn Street\nClackamas, OR 97015",
+    "phone": "503-305-9682",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alert Protective Service",
+    "primaryContact": "",
+    "address": "35891 S Chiloquin Rd.\nChiloquin, OR 97624",
+    "phone": "",
+    "county": "Klamath",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alert Protective Service",
+    "primaryContact": "",
+    "address": "35891 S Chiloquin Rd.\nChiloquin, OR 97624",
+    "phone": "",
+    "county": "Klamath",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alert Protective Service",
+    "primaryContact": "",
+    "address": "35891 S Chiloquin Rd.\nChiloquin, OR 97624",
+    "phone": "",
+    "county": "Klamath",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alert Protective Service",
+    "primaryContact": "",
+    "address": "35891 S Chiloquin Rd.\nChiloquin, OR 97624",
+    "phone": "",
+    "county": "Klamath",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alert Protective Service",
+    "primaryContact": "",
+    "address": "35891 S Chiloquin Rd.\nChiloquin, OR 97624",
+    "phone": "",
+    "county": "Klamath",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alert Protective Service",
+    "primaryContact": "",
+    "address": "35891 S Chiloquin Rd.\nChiloquin, OR 97624",
+    "phone": "",
+    "county": "Klamath",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alert Security Asset Protect dba Cero's",
+    "primaryContact": "Christopher R. Wright, 11700\nalertsecurity@comcast.net",
+    "address": "3691 NW John Olsen Place\nHillsboro, OR 97124",
+    "phone": "503-629-1029",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alert Security Asset Protect dba Cero's",
+    "primaryContact": "Christopher R. Wright, 11700\nalertsecurity@comcast.net",
+    "address": "3691 NW John Olsen Place\nHillsboro, OR 97124",
+    "phone": "503-629-1029",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alert Security Asset Protect dba Cero's",
+    "primaryContact": "Christopher R. Wright, 11700\nalertsecurity@comcast.net",
+    "address": "3691 NW John Olsen Place\nHillsboro, OR 97124",
+    "phone": "503-629-1029",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alert Security Asset Protect dba Cero's",
+    "primaryContact": "Christopher R. Wright, 11700\nalertsecurity@comcast.net",
+    "address": "3691 NW John Olsen Place\nHillsboro, OR 97124",
+    "phone": "503-629-1029",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alert Security Asset Protect dba Cero's",
+    "primaryContact": "Christopher R. Wright, 11700\nalertsecurity@comcast.net",
+    "address": "3691 NW John Olsen Place\nHillsboro, OR 97124",
+    "phone": "503-629-1029",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alert Security Asset Protect dba Cero's",
+    "primaryContact": "Christopher R. Wright, 11700\nalertsecurity@comcast.net",
+    "address": "3691 NW John Olsen Place\nHillsboro, OR 97124",
+    "phone": "503-629-1029",
+    "county": "Washington",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ALG Security",
+    "primaryContact": "Autumn Bronsart, 66089\nalgpatrol.so541@yahoo.com",
+    "address": "PO Box 3\nMedford, OR 97501",
+    "phone": "",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ALG Security",
+    "primaryContact": "Autumn Bronsart, 66089\nalgpatrol.so541@yahoo.com",
+    "address": "PO Box 3\nMedford, OR 97501",
+    "phone": "",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ALG Security",
+    "primaryContact": "Autumn Bronsart, 66089\nalgpatrol.so541@yahoo.com",
+    "address": "PO Box 3\nMedford, OR 97501",
+    "phone": "",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ALG Security",
+    "primaryContact": "Autumn Bronsart, 66089\nalgpatrol.so541@yahoo.com",
+    "address": "PO Box 3\nMedford, OR 97501",
+    "phone": "",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ALG Security",
+    "primaryContact": "Autumn Bronsart, 66089\nalgpatrol.so541@yahoo.com",
+    "address": "PO Box 3\nMedford, OR 97501",
+    "phone": "",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ALG Security",
+    "primaryContact": "Autumn Bronsart, 66089\nalgpatrol.so541@yahoo.com",
+    "address": "PO Box 3\nMedford, OR 97501",
+    "phone": "",
+    "county": "Jackson",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alhambra Theatre",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alhambra Theatre",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alhambra Theatre",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alhambra Theatre",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alhambra Theatre",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alhambra Theatre",
+    "primaryContact": "",
+    "address": "",
+    "phone": "",
+    "county": "Multnomah",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "Alibi Bar",
+    "primaryContact": "Michael J. Reed 54345",
+    "address": "5711 S. 6th St.\nKlamath Falls, OR 97603",
+    "phone": "541-331-6969",
+    "county": "Klamath",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Bar",
+    "primaryContact": "Michael J. Reed 54345",
+    "address": "5711 S. 6th St.\nKlamath Falls, OR 97603",
+    "phone": "541-331-6969",
+    "county": "Klamath",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Bar",
+    "primaryContact": "Michael J. Reed 54345",
+    "address": "5711 S. 6th St.\nKlamath Falls, OR 97603",
+    "phone": "541-331-6969",
+    "county": "Klamath",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Bar",
+    "primaryContact": "Michael J. Reed 54345",
+    "address": "5711 S. 6th St.\nKlamath Falls, OR 97603",
+    "phone": "541-331-6969",
+    "county": "Klamath",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Bar",
+    "primaryContact": "Michael J. Reed 54345",
+    "address": "5711 S. 6th St.\nKlamath Falls, OR 97603",
+    "phone": "541-331-6969",
+    "county": "Klamath",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Bar",
+    "primaryContact": "Michael J. Reed 54345",
+    "address": "5711 S. 6th St.\nKlamath Falls, OR 97603",
+    "phone": "541-331-6969",
+    "county": "Klamath",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Tiki Lounge (Double Barrel LLC)",
+    "primaryContact": "Noel M. Tierney, 64119\nnthman333@icloud.com",
+    "address": "4024 N. Interstate\nPortland, OR 97227",
+    "phone": "503-287-5335",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Tiki Lounge (Double Barrel LLC)",
+    "primaryContact": "Noel M. Tierney, 64119\nnthman333@icloud.com",
+    "address": "4024 N. Interstate\nPortland, OR 97227",
+    "phone": "503-287-5335",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Tiki Lounge (Double Barrel LLC)",
+    "primaryContact": "Noel M. Tierney, 64119\nnthman333@icloud.com",
+    "address": "4024 N. Interstate\nPortland, OR 97227",
+    "phone": "503-287-5335",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Tiki Lounge (Double Barrel LLC)",
+    "primaryContact": "Noel M. Tierney, 64119\nnthman333@icloud.com",
+    "address": "4024 N. Interstate\nPortland, OR 97227",
+    "phone": "503-287-5335",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Tiki Lounge (Double Barrel LLC)",
+    "primaryContact": "Noel M. Tierney, 64119\nnthman333@icloud.com",
+    "address": "4024 N. Interstate\nPortland, OR 97227",
+    "phone": "503-287-5335",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "Alibi Tiki Lounge (Double Barrel LLC)",
+    "primaryContact": "Noel M. Tierney, 64119\nnthman333@icloud.com",
+    "address": "4024 N. Interstate\nPortland, OR 97227",
+    "phone": "503-287-5335",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "ALJEN Security Services, Inc.",
+    "primaryContact": "Alan D. Jacobs, 08092\naljensecurity@bendbroadband.com",
+    "address": "62610 Waugh Rd\nBend, OR 97701",
+    "phone": "541-617-8677",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ALJEN Security Services, Inc.",
+    "primaryContact": "Alan D. Jacobs, 08092\naljensecurity@bendbroadband.com",
+    "address": "62610 Waugh Rd\nBend, OR 97701",
+    "phone": "541-617-8677",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ALJEN Security Services, Inc.",
+    "primaryContact": "Alan D. Jacobs, 08092\naljensecurity@bendbroadband.com",
+    "address": "62610 Waugh Rd\nBend, OR 97701",
+    "phone": "541-617-8677",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ALJEN Security Services, Inc.",
+    "primaryContact": "Alan D. Jacobs, 08092\naljensecurity@bendbroadband.com",
+    "address": "62610 Waugh Rd\nBend, OR 97701",
+    "phone": "541-617-8677",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ALJEN Security Services, Inc.",
+    "primaryContact": "Alan D. Jacobs, 08092\naljensecurity@bendbroadband.com",
+    "address": "62610 Waugh Rd\nBend, OR 97701",
+    "phone": "541-617-8677",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "ALJEN Security Services, Inc.",
+    "primaryContact": "Alan D. Jacobs, 08092\naljensecurity@bendbroadband.com",
+    "address": "62610 Waugh Rd\nBend, OR 97701",
+    "phone": "541-617-8677",
+    "county": "Deschutes",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Heart Security",
+    "primaryContact": "Albert McGee, 15827\nalmcgee2000@yahoo.com",
+    "address": "3929 SW Vermont Street\nPortland, OR 97219",
+    "phone": "360-513-2735",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All Heart Security",
+    "primaryContact": "Albert McGee, 15827\nalmcgee2000@yahoo.com",
+    "address": "3929 SW Vermont Street\nPortland, OR 97219",
+    "phone": "360-513-2735",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All Heart Security",
+    "primaryContact": "Albert McGee, 15827\nalmcgee2000@yahoo.com",
+    "address": "3929 SW Vermont Street\nPortland, OR 97219",
+    "phone": "360-513-2735",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All Heart Security",
+    "primaryContact": "Albert McGee, 15827\nalmcgee2000@yahoo.com",
+    "address": "3929 SW Vermont Street\nPortland, OR 97219",
+    "phone": "360-513-2735",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All Heart Security",
+    "primaryContact": "Albert McGee, 15827\nalmcgee2000@yahoo.com",
+    "address": "3929 SW Vermont Street\nPortland, OR 97219",
+    "phone": "360-513-2735",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All Heart Security",
+    "primaryContact": "Albert McGee, 15827\nalmcgee2000@yahoo.com",
+    "address": "3929 SW Vermont Street\nPortland, OR 97219",
+    "phone": "360-513-2735",
+    "county": "Multnomah",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All Protection Service, LLC",
+    "primaryContact": "Joshua B. Johnson, 36472\ndeacomazi88@gmail.com",
+    "address": "14603 SE Arista Drive, Unit A\nMilwaukie, OR 97222",
+    "phone": "503-535-9816",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Protection Service, LLC",
+    "primaryContact": "Joshua B. Johnson, 36472\ndeacomazi88@gmail.com",
+    "address": "14603 SE Arista Drive, Unit A\nMilwaukie, OR 97222",
+    "phone": "503-535-9816",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Protection Service, LLC",
+    "primaryContact": "Joshua B. Johnson, 36472\ndeacomazi88@gmail.com",
+    "address": "14603 SE Arista Drive, Unit A\nMilwaukie, OR 97222",
+    "phone": "503-535-9816",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Protection Service, LLC",
+    "primaryContact": "Joshua B. Johnson, 36472\ndeacomazi88@gmail.com",
+    "address": "14603 SE Arista Drive, Unit A\nMilwaukie, OR 97222",
+    "phone": "503-535-9816",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Protection Service, LLC",
+    "primaryContact": "Joshua B. Johnson, 36472\ndeacomazi88@gmail.com",
+    "address": "14603 SE Arista Drive, Unit A\nMilwaukie, OR 97222",
+    "phone": "503-535-9816",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Protection Service, LLC",
+    "primaryContact": "Joshua B. Johnson, 36472\ndeacomazi88@gmail.com",
+    "address": "14603 SE Arista Drive, Unit A\nMilwaukie, OR 97222",
+    "phone": "503-535-9816",
+    "county": "Clackamas",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Star Labor & Staffing, LLC",
+    "primaryContact": "",
+    "address": "7117 SW Beveland Rd. Suite 101\nTigard, OR 97223",
+    "phone": "503-619-0811",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Star Labor & Staffing, LLC",
+    "primaryContact": "",
+    "address": "7117 SW Beveland Rd. Suite 101\nTigard, OR 97223",
+    "phone": "503-619-0811",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Star Labor & Staffing, LLC",
+    "primaryContact": "",
+    "address": "7117 SW Beveland Rd. Suite 101\nTigard, OR 97223",
+    "phone": "503-619-0811",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Star Labor & Staffing, LLC",
+    "primaryContact": "",
+    "address": "7117 SW Beveland Rd. Suite 101\nTigard, OR 97223",
+    "phone": "503-619-0811",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Star Labor & Staffing, LLC",
+    "primaryContact": "",
+    "address": "7117 SW Beveland Rd. Suite 101\nTigard, OR 97223",
+    "phone": "503-619-0811",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Star Labor & Staffing, LLC",
+    "primaryContact": "",
+    "address": "7117 SW Beveland Rd. Suite 101\nTigard, OR 97223",
+    "phone": "503-619-0811",
+    "county": "Washington",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Tap LLC/Bierhaus",
+    "primaryContact": "",
+    "address": "315 N Main St.\nMt. Angel, OR 97362",
+    "phone": "503-798-2699",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Tap LLC/Bierhaus",
+    "primaryContact": "",
+    "address": "315 N Main St.\nMt. Angel, OR 97362",
+    "phone": "503-798-2699",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Tap LLC/Bierhaus",
+    "primaryContact": "",
+    "address": "315 N Main St.\nMt. Angel, OR 97362",
+    "phone": "503-798-2699",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Tap LLC/Bierhaus",
+    "primaryContact": "",
+    "address": "315 N Main St.\nMt. Angel, OR 97362",
+    "phone": "503-798-2699",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Tap LLC/Bierhaus",
+    "primaryContact": "",
+    "address": "315 N Main St.\nMt. Angel, OR 97362",
+    "phone": "503-798-2699",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All Tap LLC/Bierhaus",
+    "primaryContact": "",
+    "address": "315 N Main St.\nMt. Angel, OR 97362",
+    "phone": "503-798-2699",
+    "county": "Marion",
+    "status": "Inactive",
+    "default": "Inactive"
+  },
+  {
+    "name": "All-n-One Security",
+    "primaryContact": "Frank Ledgett, 07638\nfrankledgett@gmail.com",
+    "address": "1263 Main Street #73\nSpringfield, OR 97477",
+    "phone": "541-741-0091",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All-n-One Security",
+    "primaryContact": "Frank Ledgett, 07638\nfrankledgett@gmail.com",
+    "address": "1263 Main Street #73\nSpringfield, OR 97477",
+    "phone": "541-741-0091",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All-n-One Security",
+    "primaryContact": "Frank Ledgett, 07638\nfrankledgett@gmail.com",
+    "address": "1263 Main Street #73\nSpringfield, OR 97477",
+    "phone": "541-741-0091",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All-n-One Security",
+    "primaryContact": "Frank Ledgett, 07638\nfrankledgett@gmail.com",
+    "address": "1263 Main Street #73\nSpringfield, OR 97477",
+    "phone": "541-741-0091",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All-n-One Security",
+    "primaryContact": "Frank Ledgett, 07638\nfrankledgett@gmail.com",
+    "address": "1263 Main Street #73\nSpringfield, OR 97477",
+    "phone": "541-741-0091",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "All-n-One Security",
+    "primaryContact": "Frank Ledgett, 07638\nfrankledgett@gmail.com",
+    "address": "1263 Main Street #73\nSpringfield, OR 97477",
+    "phone": "541-741-0091",
+    "county": "Lane",
+    "status": "Active",
+    "default": "Active"
+  },
+  {
+    "name": "1 2 3 4 5 6 7 8 9 10 ...",
+    "primaryContact": "1 2 3 4 5 6 7 8 9 10 ...",
+    "address": "1 2 3 4 5 6 7 8 9 10 ...",
+    "phone": "1 2 3 4 5 6 7 8 9 10 ...",
+    "county": "1 2 3 4 5 6 7 8 9 10 ...",
+    "status": "1 2 3 4 5 6 7 8 9 10 ...",
+    "default": "1 2 3 4 5 6 7 8 9 10 ..."
+  }
+]

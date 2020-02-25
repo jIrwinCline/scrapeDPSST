@@ -1,6 +1,7 @@
 const puppeteer = require("puppeteer");
 // var fs = require("fs");
 const fsp = require("fs").promises;
+const fs = require("fs");
 
 let pageCount = 1; // 21 full pages of content
 let companyRows;
@@ -13,78 +14,82 @@ function delay(time) {
 (async () => {
   try {
     const browser = await puppeteer.launch();
-
     const page = await browser.newPage();
     page.on("console", msg => {
       for (let i = 0; i < msg.args().length; ++i)
         console.log(`${i}: ${msg.args()[i]}`);
     });
-    // page.evaluate(() => console.log("hello", 5, { foo: "bar" }));
+
     await page.goto(
       "http://dpsstnet.state.or.us/IRIS_PublicInquiry/PrivateSecurity/SMSAgcyTable.aspx"
     );
 
     //Clicks a tag by id
-    // await page.$eval("#btnNALL", el => el.click());
+
     await page.click("#btnNaLL");
-    //
+
     await page.waitFor(1000);
 
     const result = await page.evaluate(() => {
       let row = document.querySelectorAll("tr");
-      //   for (var i = 0; i < companyRows.length; i++) {
-      //     console.log(companyRows[i].cells);
-      //   }
+      let companyData = [];
+
       row.forEach(el => {
-        // console.log(el.cells);
+        let company = {};
+        let count = 0;
         for (data of el.cells) {
+          switch (count) {
+            case 0:
+              company.name = data.innerText.trim();
+            case 1:
+              company.primaryContact = data.innerText.trim();
+            case 2:
+              company.address = data.innerText.trim();
+            case 3:
+              company.phone = data.innerText.trim();
+            case 4:
+              company.county = data.innerText.trim();
+            case 5:
+              company.status = data.innerText.trim();
+            default:
+              company.default = data.innerText.trim();
+          }
+          count++;
+          companyData.push(company);
           //GOT SOME STUUFFFF
-          console.log(data.innerText);
+          console.log(JSON.stringify(companyData));
         }
       });
-      return row;
+
+      // await page.waitFor(3000);
+      // await fsp.writeFile("./json/file.json", result.stringify());
+      return companyData;
     });
-    // await page.evaluate(() => {
-    //   //   await page.addScriptTag({ path: './node_modules/fs/build/fs.js' });
-    //   companyRows = document.querySelectorAll("tr");
-    //   console.log(companyRows);
-    // });
 
-    // for (var i = 0; i < companyRows.length; i++) {
-    //   console.log(companyRows[i].cells);
-    // }
-    //
-    // await page
-    //   .$eval(() => {
-    //     const grabFromRow = row => row.innerText.trim();
-    //     const grabFromData = data => data.innerText.trim();
-    //     const data = [];
+    // fsp.writeFile(
+    //   "./json/file.json",
+    //   JSON.stringify(companyData, null, 2),
+    //   err =>
+    //     err
+    //       ? console.error("Data not written!", err)
+    //       : console.log("Data Written")
+    // );
 
-    //     const companyRows = document.querySelectorAll("tr");
-
-    //     for (const tr of companyRows) {
-    //       data.push(tr);
-    //     }
-    //     return data;
-    //   })
-    //   .then(val => {
-    //     console.log(val);
-    //   });
-    //
+    await fsp.writeFile(
+      "./json/file.json",
+      JSON.stringify(result, null, 2),
+      err =>
+        err
+          ? console.error("Data not written!", err)
+          : console.log("Data Written")
+    );
     await page.screenshot({
       path: "./screenshots/page1.png"
     });
     await page.pdf({ path: "./pdfs/page1.pdf" });
-
     await browser.close();
-    // await page.waitFor(3000);
-    // await fsp.writeFile("./json/file.json", result.stringify());
     return result;
   } catch (error) {
     console.log(error);
   }
 })();
-// calling logic
-// scrape().then(value => {
-//   console.log(value);
-// });
