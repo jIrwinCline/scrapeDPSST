@@ -5,6 +5,7 @@ const fs = require("fs");
 
 let pageCount = 1; // 21 full pages of content
 let companyRows;
+let pageToClick;
 function delay(time) {
   return new Promise(function(resolve) {
     setTimeout(resolve, time);
@@ -15,6 +16,10 @@ function delay(time) {
   try {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
+    const clickLink = link => {
+      page.click(link);
+      page.waitFor(1000);
+    };
     page.on("console", msg => {
       for (let i = 0; i < msg.args().length; ++i)
         console.log(`${i}: ${msg.args()[i]}`);
@@ -29,53 +34,72 @@ function delay(time) {
     await page.click("#btnNaLL");
 
     await page.waitFor(1000);
+    let fullResult = [];
+    let result;
 
-    const result = await page.evaluate(() => {
-      let row = document.querySelectorAll("tr");
-      let companyData = [];
+    result = await page.evaluate(
+      (fullResult, clickLink => {
+        let row = document.querySelectorAll("tr");
+        let companyData = [];
+        let pageList = document.querySelectorAll("b > a");
 
-      row.forEach(el => {
-        let company = {};
-        let count = 0;
-        for (data of el.cells) {
-          switch (count) {
-            case 0:
-              company.name = data.innerText.trim();
-            case 1:
-              company.primaryContact = data.innerText.trim();
-            case 2:
-              company.address = data.innerText.trim();
-            case 3:
-              company.phone = data.innerText.trim();
-            case 4:
-              company.county = data.innerText.trim();
-            case 5:
-              company.status = data.innerText.trim();
-            default:
-              company.default = data.innerText.trim();
-          }
-          count++;
-          companyData.push(company);
-          //GOT SOME STUUFFFF
-          console.log(JSON.stringify(companyData));
+        for (let step = 0; step < 2; step++) {
+          row.forEach(el => {
+            let company = {};
+            let count = 0;
+            for (data of el.cells) {
+              switch (count) {
+                case 0:
+                  company.name = data.innerText.trim();
+                case 1:
+                  company.primaryContact = data.innerText.trim();
+                case 2:
+                  company.address = data.innerText.trim();
+                case 3:
+                  company.phone = data.innerText.trim();
+                case 4:
+                  company.county = data.innerText.trim();
+                case 5:
+                  company.status = data.innerText.trim();
+                default:
+                  company.default = data.innerText.trim();
+              }
+              count++;
+              companyData.push(company);
+              //GOT SOME STUUFFFF
+              console.log(JSON.stringify(companyData));
+            }
+          });
+
+          companyData = companyData.filter(
+            (a, b) => companyData.indexOf(a) === b
+          );
+          companyData = companyData.filter(e => e.status === "Active");
+          fullResult = [...fullResult, ...companyData];
+          // console.log(JSON.stringify(pageList[step].innerText));
+          clickLink(pageList[step]);
         }
-      });
+        return fullResult;
+      },
+      fullResult,
+      clickLink
+    );
 
-      // await page.waitFor(3000);
-      // await fsp.writeFile("./json/file.json", result.stringify());
-      companyData = companyData.filter((a, b) => companyData.indexOf(a) === b);
-      companyData = companyData.filter(e => e.status === "Active");
-      return companyData;
-    });
+    //
+    // pageToClick = await page.evaluate(step => {
+    //   // console.log(pageList)
+    //   return document.querySelectorAll("b > a")[step];
+    // }, step);
+    // let pageToClick = await page.evaluate(
+    //   (step, pages) => {
 
-    // fsp.writeFile(
-    //   "./json/file.json",
-    //   JSON.stringify(companyData, null, 2),
-    //   err =>
-    //     err
-    //       ? console.error("Data not written!", err)
-    //       : console.log("Data Written")
+    //   },
+    //   step,
+    //   pages
     // );
+
+    // await page.click(pageToClick);
+    // await page.waitFor(1000);
 
     await fsp.writeFile(
       "./json/file.json",
@@ -85,6 +109,7 @@ function delay(time) {
           ? console.error("Data not written!", err)
           : console.log("Data Written")
     );
+    //*
     await page.screenshot({
       path: "./screenshots/page1.png"
     });
