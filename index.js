@@ -38,7 +38,7 @@ function delay(time) {
     let result;
 
     result = await page.evaluate(
-      (fullResult, clickLink => {
+      (fullResult, clickLink) => {
         let row = document.querySelectorAll("tr");
         let companyData = [];
         let pageList = document.querySelectorAll("b > a");
@@ -84,22 +84,6 @@ function delay(time) {
       fullResult,
       clickLink
     );
-
-    //
-    // pageToClick = await page.evaluate(step => {
-    //   // console.log(pageList)
-    //   return document.querySelectorAll("b > a")[step];
-    // }, step);
-    // let pageToClick = await page.evaluate(
-    //   (step, pages) => {
-
-    //   },
-    //   step,
-    //   pages
-    // );
-
-    // await page.click(pageToClick);
-    // await page.waitFor(1000);
 
     await fsp.writeFile(
       "./json/file.json",
