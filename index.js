@@ -47,18 +47,22 @@ function delay(time) {
     //   return pageList;
     // });
     // let pageList = await page.$$("b > a");
-    for (let step = 0; step < 2; step++) {
+    let times = 0;
+    let step = 0;
+    while (times < 1 || step !== 11) {
+      console.log(`step: ${step}, time: ${times}`);
+      if (times < 1 && step === 10) {
+        // console.log("if statement");
+        step = 1;
+        times++;
+      }
       // await page.evaluate(step => {
       //   document.querySelectorAll("b > a")[step].click();
       // }, step);
       // await page.$$eval('b > a', elements => elements[step].click());
       // console.log(link);
-      await Promise.all([
-        page.waitForNavigation(),
-        page.evaluate(step => {
-          document.querySelectorAll("b > a")[step].click();
-        }, step)
-      ]);
+
+      //SCRAPE
       result = await page.evaluate(() => {
         let row = document.querySelectorAll("tr");
         let companyData = [];
@@ -86,10 +90,10 @@ function delay(time) {
             count++;
             companyData.push(company);
             //GOT SOME STUUFFFF
-            console.log(JSON.stringify(companyData));
+            // console.log(JSON.stringify(companyData));
           }
         });
-
+        //FILTER BAD DATA
         companyData = companyData.filter(
           (a, b) => companyData.indexOf(a) === b
         );
@@ -97,55 +101,63 @@ function delay(time) {
         // console.log(JSON.stringify(pageList[step].innerText));
         return companyData;
       });
+      //CLICK
+      await Promise.all([
+        page.waitForNavigation(),
+        page.evaluate(step => {
+          // console.log(`step inside: ${step}`);
+          console.log(
+            JSON.stringify(document.querySelectorAll("b > a")[step].innerText)
+          );
+          document.querySelectorAll("b > a")[step].click();
+        }, step)
+      ]);
+      step++;
+      //
       fullResult = [...fullResult, ...result];
+      //SCRAPE AGAIN ON LAST PAGE
+      if (times === 1 && step === 11) {
+        result = await page.evaluate(() => {
+          let row = document.querySelectorAll("tr");
+          let companyData = [];
+
+          row.forEach(el => {
+            let company = {};
+            let count = 0;
+            for (data of el.cells) {
+              switch (count) {
+                case 0:
+                  company.name = data.innerText.trim();
+                case 1:
+                  company.primaryContact = data.innerText.trim();
+                case 2:
+                  company.address = data.innerText.trim();
+                case 3:
+                  company.phone = data.innerText.trim();
+                case 4:
+                  company.county = data.innerText.trim();
+                case 5:
+                  company.status = data.innerText.trim();
+                default:
+                  company.default = data.innerText.trim();
+              }
+              count++;
+              companyData.push(company);
+              //GOT SOME STUUFFFF
+              // console.log(JSON.stringify(companyData));
+            }
+          });
+          //FILTER BAD DATA
+          companyData = companyData.filter(
+            (a, b) => companyData.indexOf(a) === b
+          );
+          companyData = companyData.filter(e => e.status === "Active");
+          // console.log(JSON.stringify(pageList[step].innerText));
+          return companyData;
+        });
+        fullResult = [...fullResult, ...result];
+      }
     }
-
-    // result = await page.evaluate(
-    //   (fullResult, clickLink) => {
-    //     let row = document.querySelectorAll("tr");
-    //     let companyData = [];
-
-    //     for (let step = 0; step < 2; step++) {
-    //       row.forEach(el => {
-    //         let company = {};
-    //         let count = 0;
-    //         for (data of el.cells) {
-    //           switch (count) {
-    //             case 0:
-    //               company.name = data.innerText.trim();
-    //             case 1:
-    //               company.primaryContact = data.innerText.trim();
-    //             case 2:
-    //               company.address = data.innerText.trim();
-    //             case 3:
-    //               company.phone = data.innerText.trim();
-    //             case 4:
-    //               company.county = data.innerText.trim();
-    //             case 5:
-    //               company.status = data.innerText.trim();
-    //             default:
-    //               company.default = data.innerText.trim();
-    //           }
-    //           count++;
-    //           companyData.push(company);
-    //           //GOT SOME STUUFFFF
-    //           console.log(JSON.stringify(companyData));
-    //         }
-    //       });
-
-    //       companyData = companyData.filter(
-    //         (a, b) => companyData.indexOf(a) === b
-    //       );
-    //       companyData = companyData.filter(e => e.status === "Active");
-    //       fullResult = [...fullResult, ...companyData];
-    //       // console.log(JSON.stringify(pageList[step].innerText));
-    //       clickLink(pageList[step]);
-    //     }
-    //     return fullResult;
-    //   },
-    //   fullResult,
-    //   clickLink
-    // );
 
     await fsp.writeFile(
       "./json/file.json",
