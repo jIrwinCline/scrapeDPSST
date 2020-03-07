@@ -36,31 +36,14 @@ function delay(time) {
     await page.waitFor(1000);
     let fullResult = [];
     let result;
-
-    // let pageList = await page.evaluate(() => {
-    //   return document.querySelectorAll("b > a");
-    // });
-    // let pageList = await page.$$eval("a > b", elements => {
-    //   return elements;
-    // });
-    // let pageList = await page.$$eval("b > a", pageList => {
-    //   return pageList;
-    // });
-    // let pageList = await page.$$("b > a");
     let times = 0;
     let step = 0;
     while (times < 1 || step !== 11) {
       console.log(`step: ${step}, time: ${times}`);
       if (times < 1 && step === 10) {
-        // console.log("if statement");
         step = 1;
         times++;
       }
-      // await page.evaluate(step => {
-      //   document.querySelectorAll("b > a")[step].click();
-      // }, step);
-      // await page.$$eval('b > a', elements => elements[step].click());
-      // console.log(link);
 
       //SCRAPE
       result = await page.evaluate(() => {
@@ -98,14 +81,12 @@ function delay(time) {
           (a, b) => companyData.indexOf(a) === b
         );
         companyData = companyData.filter(e => e.status === "Active");
-        // console.log(JSON.stringify(pageList[step].innerText));
         return companyData;
       });
       //CLICK
       await Promise.all([
         page.waitForNavigation(),
         page.evaluate(step => {
-          // console.log(`step inside: ${step}`);
           console.log(
             JSON.stringify(document.querySelectorAll("b > a")[step].innerText)
           );
@@ -152,7 +133,6 @@ function delay(time) {
             (a, b) => companyData.indexOf(a) === b
           );
           companyData = companyData.filter(e => e.status === "Active");
-          // console.log(JSON.stringify(pageList[step].innerText));
           return companyData;
         });
         fullResult = [...fullResult, ...result];
@@ -160,7 +140,7 @@ function delay(time) {
     }
 
     await fsp.writeFile(
-      "./json/file.json",
+      "./json/companies.json",
       JSON.stringify(fullResult, null, 2),
       err =>
         err
