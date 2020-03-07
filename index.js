@@ -43,52 +43,62 @@ function delay(time) {
     // let pageList = await page.$$eval("a > b", elements => {
     //   return elements;
     // });
-    await page.$$eval("b > a", pageList => {
-      pageList.forEach(async link => {
-        console.log(link);
-        await Promise.all([page.waitForNavigation(), page.click(link)]);
-        result = await page.evaluate(() => {
-          let row = document.querySelectorAll("tr");
-          let companyData = [];
-
-          row.forEach(el => {
-            let company = {};
-            let count = 0;
-            for (data of el.cells) {
-              switch (count) {
-                case 0:
-                  company.name = data.innerText.trim();
-                case 1:
-                  company.primaryContact = data.innerText.trim();
-                case 2:
-                  company.address = data.innerText.trim();
-                case 3:
-                  company.phone = data.innerText.trim();
-                case 4:
-                  company.county = data.innerText.trim();
-                case 5:
-                  company.status = data.innerText.trim();
-                default:
-                  company.default = data.innerText.trim();
-              }
-              count++;
-              companyData.push(company);
-              //GOT SOME STUUFFFF
-              console.log(JSON.stringify(companyData));
-            }
-          });
-
-          companyData = companyData.filter(
-            (a, b) => companyData.indexOf(a) === b
-          );
-          companyData = companyData.filter(e => e.status === "Active");
-          // console.log(JSON.stringify(pageList[step].innerText));
-          return companyData;
-        });
-        fullResult = [...fullResult, ...result];
-      });
-    });
+    // let pageList = await page.$$eval("b > a", pageList => {
+    //   return pageList;
+    // });
     // let pageList = await page.$$("b > a");
+    for (let step = 0; step < 2; step++) {
+      // await page.evaluate(step => {
+      //   document.querySelectorAll("b > a")[step].click();
+      // }, step);
+      // await page.$$eval('b > a', elements => elements[step].click());
+      // console.log(link);
+      await Promise.all([
+        page.waitForNavigation(),
+        page.evaluate(step => {
+          document.querySelectorAll("b > a")[step].click();
+        }, step)
+      ]);
+      result = await page.evaluate(() => {
+        let row = document.querySelectorAll("tr");
+        let companyData = [];
+
+        row.forEach(el => {
+          let company = {};
+          let count = 0;
+          for (data of el.cells) {
+            switch (count) {
+              case 0:
+                company.name = data.innerText.trim();
+              case 1:
+                company.primaryContact = data.innerText.trim();
+              case 2:
+                company.address = data.innerText.trim();
+              case 3:
+                company.phone = data.innerText.trim();
+              case 4:
+                company.county = data.innerText.trim();
+              case 5:
+                company.status = data.innerText.trim();
+              default:
+                company.default = data.innerText.trim();
+            }
+            count++;
+            companyData.push(company);
+            //GOT SOME STUUFFFF
+            console.log(JSON.stringify(companyData));
+          }
+        });
+
+        companyData = companyData.filter(
+          (a, b) => companyData.indexOf(a) === b
+        );
+        companyData = companyData.filter(e => e.status === "Active");
+        // console.log(JSON.stringify(pageList[step].innerText));
+        return companyData;
+      });
+      fullResult = [...fullResult, ...result];
+    }
 
     // result = await page.evaluate(
     //   (fullResult, clickLink) => {
